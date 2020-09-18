@@ -1,0 +1,696 @@
+May 30, 2020;Masks Are Here to Stay, Even After Covid Goes Away;There were many missteps in the U.S. response to Covid-19, especially at the outset of the outbreak. One that stands out is the early choice to recommend against the widespread public use of masks by the Trump administration, the Centers for Disease Control and Prevention — and even Anthony Fauci.
+
+In hindsight and in light of current pro-mask guidelines, it's easy to get upset at what feels like inconsistent advice and a delayed reaction, but the ability to change opinions based on new information is what we should want from public-health officials, even while wishing they were faster or right the first time around. That's how science works, especially during the rapid spread of a previously unknown virus. It's easy to forget, but the initial recommendations came from somewhere. There was legitimate concern that recommending mask use could lead to a run on plunging stocks of specialized equipment intended for health workers. On top of that, some worried that people would be too confident in the protective ability of misused masks of varying quality. Mea culpa, I was among those that found these arguments compelling earlier in the year.
+Since then, the world has learned more about how the virus spreads, and the disconcerting number of asymptomatic infections has helped make the case for the broad use of masks. Multiple Asian countries where mask use was prevalent even before the pandemic have had substantially better outcomes, with various other effective public-health measures likely also playing a role.
+
+In many parts of the U.S., even in states that are reopening, masks are now required, and wearing them has become more and more routine. New York Governor Andrew Cuomo is enlisting celebrities such as comedian Chris Rock in an effort to turn the practice into a habit. In other areas, wearing a mask is seen as taking a side in a culture war, an issue made worse by Trump’s continued insistence on going barefaced. This attitude should change. The fact is, masks can play a vital role in prevention and containment. Americans should get used to the idea that they may be necessary at times even after the curre
+|May 6, 2020;Why Coronavirus Is Punishing the Economy More than Spanish Flu;To history buffs, the Covid-19 pandemic must seem eerily familiar. Almost exactly a century ago, another respiratory virus ripped across the world, killing millions in months. In 1918 and 1919, the so-called Spanish Flu (which actually started elsewhere, possibly in Austria or Kansas), spread by World War I troop movements, killing between 17 million and 100 million people worldwide. That included 675,000 deaths in the U.S.; an equivalent share of today’s population would be about 2 million, near the upper limit for the estimates of possible coronavirus deaths.
+
+This catastrophe naturally hurt the economy. The Spanish Flu, unlike Covid-19, tended to kill people in their 20s and 30s -- their peak productive years. Additionally, many cities responded to the threat the same way states are now with social distancing. These included closing schools and churches, banning mass gatherings, mandated mask-wearing and other restrictions.The combination of fear of the virus and government interventions deeply hurt retail and other business that depended on foot traffic, much as today. A 2007 report by the Federal Reserve Bank of St. Louis documents many cases of merchants losing business in Little Rock, Arkansas, and Memphis, Tennessee. But somehow, the country managed to avoid a deep depression in the years right after the pandemic. Unemployment for trade union members rose only a little:Industrial production growth actually held up well in 1919. And a recession in 1920-21 -- probably resulting more from World War I demobilization than from the virus -- was quickly reversed, turning into the Roaring '20s.Why didn't the Spanish Flu devastate the U.S. economy the way coronavirus has? It’s tempting to conclude that modern-day lockdowns are simply harsher than the distancing measures of 1918. But although data from the era is patchy, the anecdotes in the St. Louis Fed report suggest that retail businesses did suffer enormously, just as now. Fear of the virus, not government restrictions, was likely the biggest driver of lost revenue then as today.
+
+A more important factor was the difference in the structure of the economy. A century ago, less than half of all workers were employed in service industries; now, about 86% are. Manufacturing and agriculture were less vulnerable to the pandemic than retail and other businesses that depended on lots of customer traffic.
+
+The impact of the war economy was a related factor. As some economists have pointed out, WW I was still exerting a tremendous influence on production in 1918. The government simply mandated that factories stay open to meet war needs. This likely made the epidemic worse but reduced the blow to economic output. By the time the economy started shifting back toward peacetime industries, the flu was gone.
+
+A third factor is communications. Today, Americans of all social classes can find all the information they need about coronavirus with a few taps on their smartphone or turning on cable news. But neither medium existed in 1918. And thanks to harsh wartime censorship, newspapers were often afraid to print news about the epidemic, lest they be seen as unpatriotic. In fact, the virus is called the Spanish Flu only because Spain was a neutral country in WW I and thus allowed newspapers to print the grim national death toll. Suppression of information in the U.S. and the other Western powers probably made people more likely to go out and shop -- even at the cost of many lives.
+
+Opportunity cost could be a fourth factor. The world of today is much richer than that of 1918; much of what we go out to buy consists of non-essentials such as restaurant meals, fancy haircuts or new electronics. A higher percent of the shopping done by Americans a century ago was for household necessities and groceries -- things people couldn’t easily choose to give up for a few months.
+
+What about after the pandemic ends? The St. Louis Fed cites research showing that the Spanish Flu actually increased growth in the states that were the hardest hit, possibly by pushing them toward more capital-intensive types of production. The equivalent today would be a shift toward more automation. Cities with quicker and more effective lockdowns then also rebounded more quickly.
+
+But at least two factors will tend to make coronavirus’s economic damage last longer than that of the Spanish Flu. First, international supply chains are unwinding across the globe. The pandemic probably will spur countries to offshore less production in the future now that they know the risk; that will be a costly and painful transition. Second, both consumers and businesses are more highly leveraged than they were a century ago, and that debt may combine with the economic shock of the pandemic to cause a balance-sheet recession.
+
+So although the human cost of coronavirus probably will end up being smaller than that of the Spanish Flu, the economic cost may be larger and last longer. The economy of 2020 is simply much more vulnerable to pandemics than the economy of 1918.
+|May 29, 2020;South Africa Has Backlog of About 80,000 Covid-19 Tests;South Africa has about 80,000 unprocessed Covid-19 specimens as it battles with a shortage of testing kits, according to Health Minister Zweli Mkhize.
+
+“This challenge is caused by the limited availability of test kits globally,” Mkhize said in a statement. “We continue to engage suppliers all over the world and have issued licenses through South African Health Products Regulatory Authority as part of mitigating this capacity challenge.”
+
+South Africa has recorded 27,403 coronavirus infections, 577 fatalities and 14,370 recoveries. At least 96,480 specimens hadn’t been processed by May 25, according to the health ministry. A total of 20,727 tests were conducted and processed Thursday, increasing the testing tally to 655,723.
+|nt crisis subsides.  
+
+Until now, much of the government-backed effort to produce protective equipment has focused on supplying hospitals. While that should continue to be a priority, it's worth taking extra steps to boost stocks of better surgical-style masks intended to support reopening states. Even relatively simple coverings can stop some virus-containing droplets that can spread Covid-19 to others, especially in combination with other hygiene and distancing measures. However, surgical-style masks are better at stopping virus-containing droplets and are easier to wear in summer heat. Any reduction in transmission to others is highly significant in containing the virus. A boost in availability would help in providing effective masks to people in areas and situations of particular concern. 
+
+Masks aren't quite as crucial in uncrowded and outdoor spaces in regions where the virus isn't circulating much. They're arguably essential in crowded and poorly ventilated areas, particularly in hot spots, and easy availability and even targeted enforcement should be the rule in those situations. The places where masks won't do as much good now may be tomorrow's areas of concern. Authorities in those areas should be ready to respond. 
+
+Eventually, the focus can shift to the next crisis, where masks can play a role in prevention instead of catch-up. Pandemic-scale stockpiles for broad public use should be comparatively easy and cheap to manufacture over the long run, once the immediate threat of the epidemic is over. There should be a quicker trigger going forward to recommend or require masks when an airborne threat emerges, and robust plans to deploy them as a broad public-health measure. And hopefully by then, the dangerous politicization of wearing masks and taking other common-sense health measures that’s occurring in some places today will have been overcome by more effective public messaging and education.
+
+Pandemic preparation is hard and is only effective and durable under good leadership. Learning a relatively easy lesson about masks could help provide at least a bit of insurance. 
+|May 6, 2020;Why Coronavirus Is Punishing the Economy More than Spanish Flu;To history buffs, the Covid-19 pandemic must seem eerily familiar. Almost exactly a century ago, another respiratory virus ripped across the world, killing millions in months. In 1918 and 1919, the so-called Spanish Flu (which actually started elsewhere, possibly in Austria or Kansas), spread by World War I troop movements, killing between 17 million and 100 million people worldwide. That included 675,000 deaths in the U.S.; an equivalent share of today’s population would be about 2 million, near the upper limit for the estimates of possible coronavirus deaths.
+
+This catastrophe naturally hurt the economy. The Spanish Flu, unlike Covid-19, tended to kill people in their 20s and 30s -- their peak productive years. Additionally, many cities responded to the threat the same way states are now with social distancing. These included closing schools and churches, banning mass gatherings, mandated mask-wearing and other restrictions.The combination of fear of the virus and government interventions deeply hurt retail and other business that depended on foot traffic, much as today. A 2007 report by the Federal Reserve Bank of St. Louis documents many cases of merchants losing business in Little Rock, Arkansas, and Memphis, Tennessee. But somehow, the country managed to avoid a deep depression in the years right after the pandemic. Unemployment for trade union members rose only a little:Industrial production growth actually held up well in 1919. And a recession in 1920-21 -- probably resulting more from World War I demobilization than from the virus -- was quickly reversed, turning into the Roaring '20s.Why didn't the Spanish Flu devastate the U.S. economy the way coronavirus has? It’s tempting to conclude that modern-day lockdowns are simply harsher than the distancing measures of 1918. But although data from the era is patchy, the anecdotes in the St. Louis Fed report suggest that retail businesses did suffer enormously, just as now. Fear of the virus, not government restrictions, was likely the biggest driver of lost revenue then as today.
+
+A more important factor was the difference in the structure of the economy. A century ago, less than half of all workers were employed in service industries; now, about 86% are. Manufacturing and agriculture were less vulnerable to the pandemic than retail and other businesses that depended on lots of customer traffic.
+
+The impact of the war economy was a related factor. As some economists have pointed out, WW I was still exerting a tremendous influence on production in 1918. The government simply mandated that factories stay open to meet war needs. This likely made the epidemic worse but reduced the blow to economic output. By the time the economy started shifting back toward peacetime industries, the flu was gone.
+
+A third factor is communications. Today, Americans of all social classes can find all the information they need about coronavirus with a few taps on their smartphone or turning on cable news. But neither medium existed in 1918. And thanks to harsh wartime censorship, newspapers were often afraid to print news about the epidemic, lest they be seen as unpatriotic. In fact, the virus is called the Spanish Flu only because Spain was a neutral country in WW I and thus allowed newspapers to print the grim national death toll. Suppression of information in the U.S. and the other Western powers probably made people more likely to go out and shop -- even at the cost of many lives.
+
+Opportunity cost could be a fourth factor. The world of today is much richer than that of 1918; much of what we go out to buy consists of non-essentials such as restaurant meals, fancy haircuts or new electronics. A higher percent of the shopping done by Americans a century ago was for household necessities and groceries -- things people couldn’t easily choose to give up for a few months.
+
+What about after the pandemic ends? The St. Louis Fed cites research showing that the Spanish Flu actually increased growth in the states that were the hardest hit, possibly by pushing them toward more capital-intensive types of production. The equivalent today would be a shift toward more automation. Cities with quicker and more effective lockdowns then also rebounded more quickly.
+
+But at least two factors will tend to make coronavirus’s economic damage last longer than that of the Spanish Flu. First, international supply chains are unwinding across the globe. The pandemic probably will spur countries to offshore less production in the future now that they know the risk; that will be a costly and painful transition. Second, both consumers and businesses are more highly leveraged than they were a century ago, and that debt may combine with the economic shock of the pandemic to cause a balance-sheet recession.
+
+So although the human cost of coronavirus probably will end up being smaller than that of the Spanish Flu, the economic cost may be larger and last longer. The economy of 2020 is simply much more vulnerable to pandemics than the economy of 1918.
+|May 29, 2020;South Africa Has Backlog of About 80,000 Covid-19 Tests;South Africa has about 80,000 unprocessed Covid-19 specimens as it battles with a shortage of testing kits, according to Health Minister Zweli Mkhize.
+
+“This challenge is caused by the limited availability of test kits globally,” Mkhize said in a statement. “We continue to engage suppliers all over the world and have issued licenses through South African Health Products Regulatory Authority as part of mitigating this capacity challenge.”
+
+South Africa has recorded 27,403 coronavirus infections, 577 fatalities and 14,370 recoveries. At least 96,480 specimens hadn’t been processed by May 25, according to the health ministry. A total of 20,727 tests were conducted and processed Thursday, increasing the testing tally to 655,723.
+|May 4, 2020;Spain’s New Virus Deaths, Cases Hover Close to Pre-Lockdown Lows;With Spain beginning Monday to gradually relax its lockdown regime after weeks of confinement, the country’s daily coronavirus deaths and new cases hovered at lows last seen before the curbs were introduced in early March.
+
+The number of fatalities rose by 164 to 25,428 in the 24 hours through Monday, the same increase as Sunday, according to Health Ministry data. Infections rose by 356 to 218,011 after the previous day’s gain of 838. The total number of cases was adjusted to reflect changes in data for the Madrid region.Prime Minister Pedro Sanchez said Saturday that the pandemic is under control, allowing the government to gradually phase out a strict lockdown introduced March. 14.First steps include lifting some restrictions on Monday, with more easing in some areas than others based on local data. Harder-hit places such as Madrid and Barcelona, the two largest cities, are likely to be the last to see the end of the confinement.
+
+Under the government’s plan, some small businesses such as hairdressers will be allowed to open by appointment, while bars and restaurants can serve takeout. On four Spanish islands with small populations, shops will be allowed to open with limited capacity. People were allowed out to exercise for the first time in seven weeks at the weekend.
+
+Sanchez has said that he plans to ask parliament for permission to extend a state of emergency for two more weeks when it expires on May 9.
+|April 23, 2020;Why a Second Wave of Covid-19 Is Already a Worry;As authorities the world over consider when to lift economy-crippling movement restrictions aimed at curbing coronavirus infections, the fear on everyone’s minds can be expressed in two words: second wave. The concern is that, once quelled, the pandemic will resurface with renewed strength, causing a repeat of rising infections, swamped health systems and the necessity of lockdowns. A new cluster in China far from the original epicenter, where a lockdown was lifted, has added to the fears.
+
+1. What’s a second wave?
+Pandemics are caused by new pathogens that the vast majority of humans have no immune protection against. That’s what allows them to become global outbreaks. Pandemics are uncommon, but influenza is one of the more frequent causes. What often happens is that a novel variant of flu virus spreads around the world and then recedes, kind of like a tsunami. A few months later, it comes back and spreads around the world, or large parts of it, again.
+
+2. What are the prospects?
+There have been hints in Asia that a second wave is a risk. Travel restrictions were imposed on more than 100 million people in China’s Jilin province, near the North Korean border, after dozens of cases were detected in cities there in May -- a month after China’s first lockdown ended in far-away Wuhan. Schools were shut and tens of thousands of people in Jilin were quarantined. Small clusters also flared up in South Korea and Hong Kong in May. Much of the rest of the world is still struggling to get the current wave under control. Most countries have responded by restricting movement, which slows the virus’s spread but leaves many people vulnerable to infection once they begin to venture out again.
+
+3. What makes the first wave recede?Influenza pandemics can be temporarily beaten back by the change of seasons, moving to the southern hemisphere when the northern half of the globe heats up during its summer, and vice versa. The virus may also have infected a huge portion of people in most areas, giving them immunity from re-infection and possibly creating so-called herd immunity, which protects those who haven’t been infected by curtailing the virus’s circulation. In the case of the coronavirus that causes Covid-19, countries around the world have adopted movement restrictions on an unprecedented scale and social-distancing measures that together keep people far enough apart so that the virus can’t easily spread.4. So how does a virus come back?
+There are a number of possibilities. In the case of influenza, there’s the onset of cool weather, a factor that may affect the coronavirus, too. Or the pathogen can mutate. This is another feature of flu, which evolves more or less constantly. In the fall of 1918, a second wave of the historic influenza outbreak occurred and caused most of the deaths in the pandemic. Some researchers believe it was brought about by a mutation that made the virus again unrecognizable to most people’s immune systems. Another important variable is the movement of the virus to populations that haven’t been exposed before and don’t have immunity. In addition, the World Health Organization said on April 24 that there’s no evidence yet that people who have recovered from Covid-19 and have antibodies are protected from a second infection.
+
+5. What could prevent it?
+The WHO has recommended lifting movement restrictions in stages to test the effect of each before moving to greater openness. In any case, experts say, the key to keeping infections low without locking down everyone is to scale up testing and contact tracing. Health authorities need to find infected people, isolate them and identify their recent contacts, so they can be tested as well and isolated if necessary. Eventually, it’s possible that enough people will become exposed to the coronavirus that herd immunity will develop and it will stop spreading, or that a vaccine against it will be licensed.
+
+6. Why wasn’t there a second wave of SARS?
+The 2002-2003 outbreak of severe acute respiratory syndrome in Asia never reached the scope of a pandemic. Though caused by a coronavirus, it wasn’t as contagious as the one responsible for Covid-19. Its spread was mainly restricted to hospitals and other settings where people came in close contact with the body fluids of infected patients. Ebola is another pathogen relatively new to humans. There have been periodic outbreaks in Africa, but while the virus is highly contagious in some settings, it hasn’t been sufficiently infectious to spread around the world like the coronavirus.
+|May 12, 2020;Scientists Say U.K. Must Do More to Suppress Coronavirus;The U.K. government must do more to suppress the coronavirus rather than just managing its spread if it wants to prevent a resurgence of outbreaks as the country eases its lockdown, according to a group of top scientists.The recommendation is one of 18 published Tuesday by the group, known as Independent SAGE, set up as an alternative to the U.K. government’s official Scientific Advisory Group for Emergencies Covid-19 advisory panel. Other recommendations: doubling quarantines for symptomatic people to 14 days and more accurate data presented by statisticians, rather than government, at daily briefings.“We detect ambivalence in the government’s strategic response, with some advisers promoting the idea of simply ‘flattening the curve’ or ensuring the National Health Service is not overwhelmed,” the group, led by former government Chief Scientific Adviser David King, said in the report. “We find this attitude counter-productive and potentially dangerous. Without suppression, we shall inevitably see a more rapid return.”The 13-member panel was created by King in response to a lack of transparency from the government over who it was taking advice from and what that advice was, as ministers repeatedly said they were following scientific recommendations. After a spate of criticism, the government published a partial list of SAGE members and some meeting minutes last week.
+
+“SAGE is providing advice to government and it is comprised of pre-eminent experts from across the worlds of academia, with diverse expertise covering everything from vaccinology and epidemiology, to behavioral science and serology,” a government spokesperson said. “This is a new virus and the science is emerging, so SAGE is happy to receive scientific input from any group, as it already does.”
+
+At an hour-long virtual press conference Tuesday, King said his panel was “not happy” about the government’s initial decisions on the pandemic to stop testing and aim for some degree of herd immunity -- which the government insists was never official policy. King also said the government “must prepare for recurrent outbreaks for at least a year.”
+|May 27, 2020;Covid-19 Blows a $400 Billion Hole in Global Energy;Covid-19 has blown a $400 billion hole in global energy. How we fix it will determine our success or failure versus that other implacable force of nature: climate change.
+
+The International Energy Agency’s latest investment review, released Wednesday, could easily be subtitled: Don’t let a good crisis go to waste. That figure of $400 billion or so is the difference between where the IEA’s projection for energy investment in 2020 began the year — 2% growth — and where it now thinks it will land: a 20% decline. To put that figure in perspective, it’s not far short of all the money that went into the oil and gas production business last year. Which is apt, since that’s been hit hardest.One of Covid-19’s secondary victims is mobility, so oil consumption has plunged. Even so, IEA head Fatih Birol poured cold water on the notion that peak oil demand may have happened already. Speaking with Bloomberg News ahead of the report’s release, he said:
+
+In the absence of strong government policies, a sustained economic recovery and low oil prices are likely to take global oil demand back to where it was, and beyond.
+
+It’s fairly easy to take issue with this prediction. We are barely months into possibly the most consequential economic dislocation the world has seen in many decades and possibly only months away from another round of it.On the other hand, I don’t read Birol’s statement as a prediction; more of a warning. The key phrase there concerns “strong government policies.” Covid-19 raises the issue of agency with devastating clarity; faced with an alarming risk, what do we choose to do?
+
+Oil demand may suffer long-lasting scars from changes in behavior or sheer economic trauma, but it is rising again off the bottom. The IEA raises the specter of 9 million barrels a day of day of missing supply in 2025 if investment doesn’t increase from here, perhaps touching off another round of high prices for a global economy that may be just getting over the pandemic.
+
+This looks extreme; price signals wouldn’t stay dormant for that long. Yet it ought to serve its rhetorical purpose, prodding us to consider, collectively, why we wouldn’t try to do things differently.
+
+For all the damage inflicted on fossil-fuel producers, incumbency remains a potent force. Quite apart from the petro-states whose existence rests to a large degree on oil’s indefinite prosperity, consider the downstream parts of the business. Last year saw a record amount of new liquefied natural gas capacity approved. Meanwhile, 2.2 million barrels a day of refining capacity was switched on last year — more than double the increase in demand — and another 6 million is due by 2025; too much even in an alternate, non-Covid-19 reality. Steel in the ground tends to create realities of its own. Like the oil supply currently, and reluctantly, being held off the market today, the underutilized plants of tomorrow will seek any opportunity to push cheap molecules into the market whenever they can. 
+
+There is no good reason why, when that $400 billion or so of investment comes back, it must be spent according to old patterns embedding chronic conditions of boom-and-bust, geopolitical tremors and, of course, runaway climate change. A striking finding in the IEA report is that spending on electricity services will outpace spending on oil products this year for the first time this century (and quite possibly ever). The fact it’s happening in a plague year means this isn’t a turning point, but it does emphasize the scale of the power business — and the scope for investment.
+
+The IEA’s long-term scenario under current government mandates is known as “Stated Policies,” or STEPS. The more ambitious one, moving the world closer to Paris Agreement goals — albeit with too much reliance on carbon capture after 2050 — is called “Sustainable Development,” or SDS. Scenarios entail spending, and even under the weaker policy environment, the IEA projects investment in renewables to top that of gas supply. Under SDS, it soars past both gas and oil. Taken together, investment in renewables and power networks would average almost $1 trillion a year globally in the back half of the decade, a jump of 69% versus 2019. Oil and gas, meanwhile, rise by just 16% under the more favorable scenario and drop 7% under the climate-friendlier one, with oil dropping 17% within that.A trillion a year, especially in the context of changes in policy, will sound like big government run amok to some. But check your priors. Investment in oil and gas supply was already about $750 billion last year, and that was down from mid-decade levels. Renewables and electrification projects also should create more jobs and lend themselves to more rapid deployment; think “move fast and fix things.”
+
+Meanwhile, despite the prevailing wisdom, governments play a much bigger direct role in fossil fuels than in renewables. The share of government or state-owned enterprises in oil and gas supply or fossil-fuel power generation investment is about 40%-50%, according to the IEA, versus roughly 15% for renewable energy and efficiency projects. What, did you actually think Saudi Aramco is a private company now?
+
+Yes, there are renewable portfolio standards and other policies that encourage more solar and wind power, but those exist because collective myopia has allowed incumbent fossil-fuel interests to lobby successfully against more transparent pricing of carbon. Yet even with that hindrance, the rapid drop in renewable-energy costs means a dollar spent on those technologies last year bought 50% more capacity than it did in 2012. Imagine the gains possible if market signals were aimed squarely at addressing climate change. If we are going to spend trillions powering our post-Covid societies anyway, why not optimize it for good outcomes? 
+
+|May 13, 2020;Texas Cases Jump; AMA Warns on Antibody Tests: Virus Update;The Trump administration plans to rebuild its national strategic stockpile to keep on hand enough medical supplies for 90 days. New Jersey will reopen its beaches in time for the Memorial Day holiday. Texas cases and deaths had their biggest one-day rises, two weeks into the state’s reopening.
+
+U.S. unemployment benefit applications remained in the millions for an eighth straight week. Germany’s tax revenue is projected to tumble, raising questions about how much debt it may be willing to take on to revive Europe’s largest economy.
+
+French President Emmanuel Macron has indicated he plans to meet Sanofi executives over the company’s suggestion to give Americans first shot at a successful coronavirus vaccine. The U.S. military will mobilize to administer a vaccine if it becomes available.
+|May 15, 2020;WHO Asks Countries to Make Covid Vaccines Universally Available;The World Health Organization is pushing a proposal that aims to ensure broad access to Covid-19 treatments and vaccines while offering an appropriate reward to creators.
+
+Under the plan, which was proposed by Costa Rica, pharmaceutical companies would be asked to voluntarily donate their Covid-related intellectual property to a common global pool. Countries then would be free to decide for themselves how to mete out the rights.World leaders are struggling to balance the need to motivate drug discovery while making sure that the benefits aren’t available only to those who pay the most. Costa Rica’s proposal would allow some countries to restrict patent rights for vaccines and treatments while letting others open them up to the public domain to try to make them available for all citizens.
+
+The virus “attacks people all around the world in the same way,” Carlos Alvarado Quesada, the president of Costa Rica, said at a WHO press briefing Friday. “It’s a call for solidarity.”Under the plan, countries would retain the right to allow low-cost generics of patented medicines. WHO Director-General Tedros Adhanom Ghebreyesus is urging countries and companies to support the proposal, which will be put up for discussion at the World Health Assembly summit on Covid-19 Monday and Tuesday.
+
+The pandemic can be a disproportionate burden for developing countries, Sebastian Pinera, the president of Chile, said in the briefing.
+|May 31, 2020;Ghana Emboldened by Low Fatality Rate to Ease Some Restrictions;The West African nation, which lifted a 21-day lockdown on April 20, is keeping all borders closed “until further notice,” while allowing some religious gatherings from June 5 and opening secondary schools and universities to students who have exams from June 15, President Nana Akufo-Addo said in a broadcast address late Sunday.
+
+Ghana recorded 36 deaths out of 8,070 reported cases of the virus, as of Sunday. “Our hospitalization and death rates have been, persistently, very low, some of the lowest in Africa and in the world,” he said. “The Ghanaian people are not dying of the virus in the hundreds and thousands that were earlier anticipated.”
+
+The disease has brought three years of annual economic expansion of 6% or more to a sudden halt in the nation of 30 million people, with the finance ministry forecasting that growth could slow to 1.5%, the least in 37 years. The International Monetary Fund agreed to $1 billion in emergency funds to Ghana in April, while a debt standstill from the World Bank will free up $500 million in interest and principal payments.
+|May 8, 2020;A Look at the Most Promising Candidates for a Covid-19 Vaccine;From the U.S. to China to Germany, scientists are working around the clock to find a vaccine against the novel coronavirus. While experts caution that the process will take time—and that it’s not even a sure bet one can be found—some researchers say a vaccine could be ready for emergency use by the end of the year. The Trump administration has announced “Operation Warp Speed” to have an inoculation ready as soon as possible.
+
+Most of the programs are in their early stages, meaning the gold standard of data, clinical trials with “blinded” placebo and therapeutic groups, is still a ways off. In normal times, the process to approve a drug or vaccine is slow and painstaking. It can be accelerated but at the risk of incurring unforeseen harm. When rules are loosened in the desire to get a vaccine to market quickly, it’s important to cast a skeptical eye on too-good-to-be-true data. It’s also possible that more than one usable vaccine could emerge. In the polio epidemic of the 1950s, scientists developed two different kinds, first an injection and later oral drops, to help eradicate the disease.Johnson & Johnson
+Working on a $1 billion-plus effort with the U.S. government to test a vaccine, J&J plans to start human trials by September.
+ 
+Inovio
+Inovio kicked off its vaccine trial in April; the company is targeting larger studies this summer.
+ 
+Moderna
+The U.S. government has awarded the company almost $500 million in funding to develop and test its candidate. A patient trial is under way; early results could be available in late May or June.
+ 
+Sinovac
+The company says its inoculation can neutralize different strains of the virus.
+ 
+CanSino Biologics
+The Hong Kong-listed company worked alongside China’s military to develop a vaccine. It’s starting human trials in Wuhan.
+ 
+Sanofi and GlaxoSmithKline
+Sanofi is testing technology that’s already used in a flu shot, with Glaxo providing some of the ingredients. Patient trials could start in the second half of this year.
+ 
+Imperial College London
+Researchers have received funding for their vaccine project and aim to begin clinical trials in June.
+ 
+China National Biotec
+The Chinese state-owned drugmaker began conducting blinded, placebo-controlled human trials in April.
+ 
+Oxford University and AstraZeneca
+AstraZeneca has agreed to make an experimental inoculation developed by researchers at Oxford. Already being studied in humans, it could reach late-stage trials by the middle of the year.
+ 
+BioNTech and Pfizer
+The German and American duo launched clinical trials of its vaccine in the U.S. and Europe. If it’s successful and approved by regulators, the drugmaker could start distributing the shot on an emergency-use basis in the fall.
+|May 18, 2020;As Covid-19 Hits Electric Vehicles, Some Thrive, Others Die|Electric vehicles generally don’t coast; they are designed either to accelerate or brake at any given time. The electric vehicle market is much the same.
+
+The pandemic ravaged economy is expected to give electric vehicles a boost in China, Europe and countries committed to sparking battery power via financial stimulus and infrastructure spending, according to a forecast released today by BloombergNEF, Bloomberg LP’s primary research service on energy transition. In the U.S., however, electric vehicle sales will slow drastically in the coming months as policy support weakens and cash-strapped automakers refocus on their most profitable products, namely gas-burning trucks and SUVs.
+
+
+“EV adoption is probably going to keep rising and not even dip, which is quite remarkable,” said BNEF head of advanced transport Colin McKerracher, the lead author on the long-term forecast, which assesses the market from now to 2040. “But that adoption rate is about to get very different between different countries.”
+
+In the U.S., electric vehicles sales will shrink to just 1.7% of the personal auto market in 2021. At the same time, the sector will swell to 8.1% of all sales in China, which accounts for the largest share of global EV sales, and 5% of those in Europe, the BNEF report says.Gas-powered vehicles will still comprise more than half of global auto sales for years to come, but the market has already peaked, according to BNEF. Worldwide, we will never buy as many traditional cars and trucks as we did in 2017.
+
+Ask BloombergNEF Analysts About EV Market Outlook on May 20.Volvo hopes to get half of its sales from electric vehicles within five years. If anything, the pandemic has turbocharged those aspirations, according to Chief Executive Officer Hakan Samuelsson. “I think it would be naive to believe after some months, everything will return to normal and our customers will come back into a showroom asking for diesel cars,” Samuelsson said at a digital conference on May 14. “They will ask even more for electric cars, and that is speeding up.” 
+
+General Motors, meanwhile, is still figuring out when to unveil two new electric models, the GMC Hummer and Cadillac Lyriq. Its engineers are largely homebound. Still, the company’s timeline on battery-powered products is unchanged, according to Ken Morris, GM’s vice president for electric and autonomous vehicles. “We haven’t lost a beat,” Morris said on a conference call May 12.Although the pandemic hasn’t totaled a number of the most anticipated electric vehicles heading to market, it no doubt has affected decisions as to how many of those machines will be made and where they will be sold.
+
+BNEF’s forecast, as with most outlooks of late, is far from sanguine. It assumes a second wave of Covid-19 casualties and does not expect global auto sales to recover for five years, forecasting a dip in total miles driven to last until 2023. Yet, BNEF expects electric vehicles to weather the downturn better than gas-powered cars and trucks. Globally, the forecast calls for 1 in 10 autos sold to be battery-powered by 2025, some 8.5 million machines. 
+
+Only 13% of those vehicles, however, will be in the U.S., the world’s second-largest car market. Federal tax credits of up to $7,500 on battery-powered units are quickly expiring as individual auto brands top sales thresholds. Meanwhile, the Trump administration is pushing to dial back emissions mandates and is challenging states that are trying to enforce their own such mandates.Europe and China, meanwhile, may further juice electric vehicle sales as they spend to stimulate their coronavirus-crushed economies. Public charging stations, in particular, could get a boost, according to BNEF, particularly as evidence grows that coronavirus casualty rates are closely linked to air quality. 
+
+“The places that lean more towards this stuff anyway are going to put in place stimulus that supports it,” McKerracher said. “You can definitely see a scenario where Europe says: ‘This is the chance to really go for it.’”
+|May 7, 2020;What Boris Johnson Has Planned for Post-Lockdown Britain;The instruction given by Boris Johnson to the British people on March 23 was dead simple: “You must stay at home.” The pithiness and urgency of that message, the alarming rise in deaths, and the U.K. prime minister’s subsequent hospitalization with Covid-19 all reinforced the instruction. People got it.
+
+Some say it was too successful. Many Britons don’t seem to want to come out of lockdown now. The all-important R number — the average number of people infected by one person — is now said to be below one. But how to keep it there while getting people back to work?Johnson’s task on Sunday, when he’ll set out the circumstances under which people can resume parts of their old lives, will require far more granular and sophisticated communication. There’s only one way into lockdown, but multiple routes out. 
+
+The government’s grave errors in the early stages of the pandemic make the reopening perilous politically. Having been slow to increase testing, Britain improved during April, but it’s a long way from the mass examinations needed to provide confidence in a steady return to normality. The other component of a successful unlocking strategy — contact tracing — is being trialed on the Isle of Wight. But the U.K.’s homegrown solution may prove inferior to the Google and Apple Inc. technology that countries like Germany and Switzerland opted for.
+
+Britain’s abject record in fighting the virus leaves Johnson very little margin for error. The U.K. death toll has surpassed that of Italy, making it the worst-hit country in Europe, and second globally to the U.S. The official number of more than 30,000 fatalities is probably far smaller than the real figure. Data from the Office for National Statistics show that over 42,000 more people have died than is normal since mid-March. As Keir Starmer, the opposition Labour Party leader, asked Johnson on Wednesday: “How on earth did it come to this?” The government has two answers to that question, neither very satisfying.
+
+The first is that it’s too early to make conclusive judgments about death tolls. The relative numbers between nations may look different some months down the road when a full accounting is made. Even so, there’s little chance that Britain’s death rate will not look horrible when compared with Germany, South Korea and many other countries. While there may be an argument for taking international comparisons with a grain of salt, U.K. ministers have been using such information at every news conference for weeks.
+
+The government’s second answer to Starmer’s question — that it has been “guided by the science” — looks even more dubious, given all of the confusion and mystery around this guidance. On Monday it bowed to pressure to release the names of members of the influential Scientific Advisory Group for Emergencies (SAGE), after growing criticism about the dangers of shrouding the advice in secrecy.
+
+On Tuesday, one of the most prominent SAGE members, Imperial College professor Neil Ferguson, resigned after the Daily Telegraph reported that he had violated social distancing rules to meet his married lover. It was Ferguson’s controversial models that most influenced the government’s lockdown policy. He apologized and said he’d figured that since he’d had Covid-19 and completed his period of self-isolation he was immune. Scientists aren’t entirely sure what immunity the virus confers, so that’s an odd statement from one of the government’s chief advisers on the pandemic.
+
+The timing of the Ferguson disclosure is significant too. A backlash against Johnson’s lockdown — and the evidence on which it was based — has been building, especially among members of Johnson’s Conservative Party. Steve Baker, an arch-Brexiter, says the restrictions are “absurd, dystopian and tyrannical.” Jonathan Sumption, a former U.K. Supreme Court judge, wrote a column calling the lockdown “without doubt the greatest interference with personal liberty in our history.” That was applauded by Tesla Inc.’s Elon Musk.
+
+Ferguson’s indiscretion is a gift to this campaign against restrictions. It doesn’t help confidence in the government’s policies if the man known as “Professor Lockdown” wasn’t following the advice he repeatedly trumpeted on national media. His resignation provided an opportunity to question not just his judgment but his scientific models.
+
+Johnson will want to respond in some way to this pressure to restore economic activity from the right of his party, the same people who delivered him power. But between Sweden’s light-touch approach and South Korea’s leave-nothing-to-chance policies, Johnson is leaning toward the latter. This seems to be born of the conviction that voters won’t tolerate the trade-off of losing lots of lives in exchange for getting back to work. Johnson’s own experience of Covid-19 will no doubt shape his thinking. There’s also a more pragmatic calculation that any new infection spike could deal the economy an even bigger blow.  
+
+Polls seem to bear out the prime minister’s caution. An Opinium poll for the Observer published last weekend showed that only 17% of people felt conditions were right for reopening schools. Only 9% thought it would be right to consider reopening pubs and even fewer said a return of sporting events or concerts should be allowed.
+
+Yet support for the lockdown has been accompanied by a growing sense of public unhappiness with Johnson and his colleagues. The percentage of people who approve of the government’s management of the crisis has fallen to 47% from 61% three weeks ago. There will be little tolerance for more mistakes.
+
+Having been tentative going into the lockdown, at such great cost, Johnson cannot now be anything but cautious in coming out of it. He’ll just have to find a way to make the new policy sound as straightforward and convincing as the one it replaces. He can’t afford to get the reopening wrong too.
+|May 14, 2020;CDC Posts Advice on Reopening U.S. Bars, Restaurants and Workplaces;New guidance from the U.S. Centers for Disease Control and Prevention advising states on how to reopen bars, restaurants and workplaces was posted by the agency on Thursday.
+
+The guidance outlines a series of steps that should be taken to keep employees and customers safe, including encouraging hand-washing, social distancing and how to check for symptoms of potential Covid-19 cases. An earlier version of the guidance was held back by the Trump administration for being too prescriptive, especially for states that have had lesser outbreaks.
+
+The White House task force issued broad guidelines for reopening the country on April 16 but largely left the specifics to states on how to restart economic and social activities. Around the U.S., states have begun moving forward with reopening plans, even as cases of the virus continue to circulate.But in the absence of guidance from the CDC, providing rules and advice had largely been left to state and local groups, or not dispensed at all. Some businesses that have reopened have said they’ve seen few customers as people are reluctant to resume shopping, dining out and socializing while still worried about the illness.Bars and restaurants, for example, shouldn’t reopen until they can follow applicable state and local orders, and until they’re ready to protect people who are at higher risk for severe illness, the guidelines say. Then they should encourage social distancing -- add spacing of tables and stools; encourage drive-through, delivery and curb-side pick up; limit party sizes and occupancy; avoid self-serve stations; and restrict employee shared spaces. Employers should check staff for signs and symptoms of illness as they arrive, “as feasible.”
+
+Mass-transit operators should limit routes to and from high-transmission areas before increasing to full service, as well as space out passengers by closing every other row of seats, according to the guidelines. Youth programs, camps and childcare programs should change activities and procedures to limit shared toys and supplies, according to the guidelines.The new CDC guidelines are valuable and may be a step in the right direction, said Howard Forman, director of the Yale School of Public Health’s health-care management program.
+
+“You don’t want 1,000 or more municipalities, states, governments of different sizes having to reinvent the wheel,” Forman said in an interview. But “the CDC is way behind in leading on this,” he said. “And that’s a shame.”
+
+The CDC reopening guidelines became a political football earlier this month, caught up in a debate about whether one national standard was too prescriptive, since some parts of the country have been hit harder than others.
+
+A White House official said the guidelines were the result of a collaboration between the CDC and the administration’s coronavirus task force. The official, who spoke on condition of anonymity, disputed the claim that the guidance had ever been quashed.
+
+Earlier reports by the Associated Press and the Washington Post described pushback inside the administration over a draft of the guidelines. A version of the guidelines posted by the AP contained far more detailed instructions to churches, camps and other businesses and gathering places, setting up small groups to limit interactions, or suggested restrictions on how to serve food, for example.
+
+Read more: Without CDC Guidance, Reopenings Follow a Patchwork of Rules
+
+At a Tuesday Senate hearing about reopening, Senators Patty Murray and Chris Murphy, Democrats representing Washington and Connecticut, respectively, both criticized the delay in getting the guidelines out.
+
+“We need it. My state needs it,” Murphy said. “We don’t have all the experts that you guys have and we rely on you.”
+
+“Why didn’t this plan get released?” Murphy asked.
+|May 26, 2020;Hospital Staff With Covid-19 Had Protective Antibodies in Study;Almost all doctors and nurses who got mild forms of Covid-19 produced antibodies that could prevent reinfection, according to a study conducted on hospital staff in northeastern France.
+
+The study of 160 volunteers shows all but one developed antibodies within 15 days after the start of infection, Institut Pasteur and university hospitals in Strasbourg said in an early version of their findings released before peer review. Almost all of the staff tested had antibodies that were capable of neutralizing the virus within 41 days of developing symptoms.The research addresses a crucial question regarding the new coronavirus: whether people who had Covid-19, and especially those who didn’t get severely ill, develop antibodies capable of protecting them against reinfection. The World Health Organization said on April 24 that there’s no evidence yet that people who have recovered and have antibodies are protected from a second infection.“This finding supports the use of serologic testing for the diagnosis of individuals who have recovered from SARS-CoV-2 infection,” Institut Pasteur’s Arnaud Fontanet and colleagues wrote in the paper.
+
+More of the hospital staff developed neutralizing antibodies over time, with only 79% of the volunteers exhibiting them within 20 days, compared with 98% detected after 41 days. All of them had their infections confirmed by tests at the time they were ill.
+
+|May 6, 2020;Fighting Climate Change Prepared Jay Inslee for a Pandemic;When Washington Governor Jay Inslee ran for the Democratic nomination for president on a platform of aggressively tackling climate change, he didn’t get much traction with voters.  But then the U.S. first cases of  Covid-19 hit Washington state in  January, and Inslee’s decisive science-based leadership suddenly seemed prescient. Bloomberg Green talked with Inslee about the two potentially lethal crises and their weird but undeniable parallels. The interview has been condensed and edited.
+
+Before the pandemic you were perhaps best known for your committed stance on addressing climate change.  Some of the first U.S. cases of Covid-19 were in Washington state and you’ve done a better job than most in containing its spread. Was there anything from your fight against climate change that prepared you for Covid-19?
+
+They have a very different time scale, but there are a lot of similarities in the best way to address both. Number one is the most important: You've got to be aware of and accept the science and make decisions based on data—even if that is uncomfortable. The consequences are very dire for both if you don't follow the data.
+
+
+Another thing about both is that it is important to act early. I was talking to Anthony Fauci [director of the National Institute of Allergy and Infectious Diseases] about this in fact, and he basically said if you are not uncomfortable making a decision, you are probably too late.
+
+The third thing I would say is that we have it in our power to actually do things about those problems. That’s important because both of them involve powerful—and at times, overwhelming—natural phenomenon. But we’re not powerless. We have the control to be able to affect our destiny. We made some wise decisions in this state and we bent the curve down on Covid.When Washington Governor Jay Inslee ran for the Democratic nomination for president on a platform of aggressively tackling climate change, he didn’t get much traction with voters.  But then the U.S. first cases of  Covid-19 hit Washington state in  January, and Inslee’s decisive science-based leadership suddenly seemed prescient. Bloomberg Green talked with Inslee about the two potentially lethal crises and their weird but undeniable parallels. The interview has been condensed and edited.
+
+Before the pandemic you were perhaps best known for your committed stance on addressing climate change.  Some of the first U.S. cases of Covid-19 were in Washington state and you’ve done a better job than most in containing its spread. Was there anything from your fight against climate change that prepared you for Covid-19?
+
+They have a very different time scale, but there are a lot of similarities in the best way to address both. Number one is the most important: You've got to be aware of and accept the science and make decisions based on data—even if that is uncomfortable. The consequences are very dire for both if you don't follow the data.
+
+
+Another thing about both is that it is important to act early. I was talking to Anthony Fauci [director of the National Institute of Allergy and Infectious Diseases] about this in fact, and he basically said if you are not uncomfortable making a decision, you are probably too late.
+
+The third thing I would say is that we have it in our power to actually do things about those problems. That’s important because both of them involve powerful—and at times, overwhelming—natural phenomenon. But we’re not powerless. We have the control to be able to affect our destiny. We made some wise decisions in this state and we bent the curve down on Covid.
+|May 14, 2020;Novartis CEO Says Covid-19 Vaccine May Take Until End of 2021;Novartis AG Chief Executive Officer Vas Narasimhan said a vaccine for Covid-19 may only become available in the second half of next year, echoing the consensus view in much of the pharmaceutical industry.“The ultimate way to deal with this pandemic is likely to be a vaccine against Covid-19,” the CEO wrote in an opinion piece published in Switzerland’s Handelszeitung Thursday. “That will take more time -- my guess is about one and a half to two years.”While some vaccine developers have predicted limited availability of coronavirus vaccines this year, pharmaceutical executives have generally been more cautious. Researchers working on a vaccine at the University of Oxford have said their product will be fully tested by this fall.
+
+U.S. President Donald Trump recently announced “Operation Warp Speed,” which seeks to produce 300 million immunizations by the end of this year. Bill Gates, whose foundation is focusing on fighting Covid-19, has said he expects it will take somewhere between nine months and two years to deliver a vaccine.
+
+There are about 90 vaccine candidates in clinical trials or development, Narasimhan said. Novartis isn’t developing a vaccine itself.
+|May 5, 2020;Regeneron Covid-19 Antibody Treatment Could Be Available by Fall;Regeneron Pharmaceuticals Inc. said an experimental antibody treatment for Covid-19 could be available as soon as this fall, an expedited timeline for a drug that’s scheduled to be studied in humans for the first time in June.
+
+To meet the fall time line will “depend on a lot of factors,” including whether the treatment works as well as hoped, “and there is obviously a lot of risk,” Regeneron Chief Scientific Officer George Yancopoulos said Tuesday on a conference call with investors. “We’ve sort of done it before but now we are trying to take it to the next level.”
+
+The therapy consists of a cocktail of two antibodies, which are manufactured versions of proteins that would typically be produced as part of an immune response to a virus. Regeneron’s treatment and other similar drugs in development are considered highly promising for the novel coronavirus that causes Covid-19. Studies of the drug in people will begin this summer.Other companies developing antibody drugs for the new coronavirus are also moving quickly. They include AstraZeneca, Vir Biotechnology, Eli Lilly & Co. and biotech partner AbCellera Biologics, and several academic labs.
+|May 28, 2020;Roche Partners With Gilead in Covid Trial of Drug Combination;Roche Holding AG and Gilead Sciences Inc. are initiating a late-stage trial of a two-drug combination in hopes of creating a new weapon in the battle against Covid-19.
+
+The study will pair Roche’s immune suppressor Actemra along with Gilead’s antiviral remdesivir, the only drug shown so far to fight the coronavirus, in treating patients with severe pneumonia, Roche said in a statement. The results of the combination will be compared to those from patients who receive remdesivir and a placebo.
+
+The trial adds to the blizzard of research into existing medicines against Covid-19. While antivirals seek to stop viruses from replicating, drugs like Actemra -- often used to treat rheumatoid arthritis -- aim to counter harmful levels of inflammation, sometimes called a cytokine storm, that can be just as damaging as the infection itself.
+
+Inflammation-dampening drugs aren’t without risk, since they limit the body’s ability to fight the infection, Sam Fazeli of Bloomberg Intelligence said in a note.
+
+“This makes it crucial to decipher the best timing of treatment,” he said.
+The companies plan to begin enrolling as many as 450 patients in the U.S., Canada and Europe in June for the trial, called Remdacta. Roche said that it’s increasing the size of another trial of Actemra, to 450 patients from 330. That trial started in April and Roche has said it expects results as soon as June.
+
+Other drugmakers experimenting with anti-inflammatory treatments for Covid-19 include Sanofi, Regeneron Pharmaceuticals Inc., AstraZeneca Plc and GlaxoSmithKline Plc.
+|June 9, 2020;Price Limits Will Scare Off Covid Vaccine Makers, Fauci Warns;The federal government shouldn’t force drug companies to lower the costs of Covid-19 vaccines and treatments but should encourage fair pricing, Anthony S. Fauci said Tuesday.
+
+“I have a lot of experience over the years dealing with pharmaceutical companies in which we’re trying to develop an intervention,” Fauci, director of the National Institute of Allergy and Infectious Diseases in the National Institutes of Health, said. “And the one thing that is clear is that if you try to enforce things on a company that has multiple, different opportunities to do different things, they will walk away.” Fauci spoke at BIO Digital, the first virtual convention by the Biotechnology Innovation Organization.
+
+At issue is what the government can compel private industry to do, especially when taxpayer dollars fund the basic research and clinical trials like the experimental vaccine developed by the NIAID and Moderna Inc. that’s in early clinical testing.
+
+“This is what’s called a get-Tony-in-trouble question,” Fauci said in response to a question from BIO President and Chief Executive Officer Michelle McMurry-Heath.Many of these outbreaks disproportionately affect regions of the world that cannot afford a very expensive intervention,” Fauci said. “So that’s the reason why we’ve got to work with each other in good faith that we’re going to help. But I’ve never seen a successful attempt at doing controls.”
+
+BIO has pushed back on House Speaker Nancy Pelosi’s drug pricing plan and other proposals to impose price controls. Reps. Joe Neguse (D-Colo.) and Ted Lieu (D-Calif.) introduced a bill (H.R. 6450) that would limit drug companies from selling their products at more than 10% of the cost during a public health emergency. Sen. Elizabeth Warren (D-Mass.) has a companion bill.
+
+“We can’t allow American families—who are already struggling to make ends meet during this public health emergency—to be squeezed even further by companies out to make a quick buck,” Warren said in a statement.
+
+161 Vaccines in Development
+There are 238 treatments being considered and 161 vaccines in development, according to a tracker by Faster Cures. Fauci said he expects multiple products to come to market, which will be necessary to supply the billions of doses needed to get vaccines for the entire world.
+
+“You’re not going to have 100 vaccines,” he said. “There’s going to be more than one, I’ll guarantee.”
+
+While companies have jumped to respond to the Covid-19 outbreak, the NIAID had trouble finding industry partners for Ebola and West Nile vaccine candidates developed by NIH scientists. The NIAID typically conducts the basic and early clinical research to reduce the risk of finding new treatments and vaccines. It then partners with pharmaceutical companies that eventually bring those products to the market.
+
+“When you’re dealing with something that has to have some kind of an economic return, you can’t just do something and just give it away. You’ve got to have some degree of profit,” Fauci said. Pricing can’t be “outrageous” or it will be inaccessible “to the people who really need it,” he said.
+
+Some companies have already addressed pricing ahead of development. Gilead Sciences Inc. CEO Daniel O’Day has said his company will work to ensure affordability and access if the Food and Drug Administration approves its experimental treatment remdesivir. Merck & Co. said it is updating an assistance program to provide U.S. patients the company’s medicines at no cost for those who have lost their jobs or can’t visit their doctor’s office during the pandemic.
+|May 4, 2020;March Deaths Nearly Doubled in Coronavirus-Hit Northern Italy;As the coronavirus raged through Italy’s northern economic heartland in March, deaths almost doubled in comparison with the month’s average for the previous five years.Some of the region’s worst-hit provinces, like Bergamo and Cremona, saw increases of as much as sixfold during the month, according to a report. Italy’s overall mortality during March was almost 50% higher than in the previous five years.
+
+Countries around the world are reporting higher death rates linked to the pandemic. Weekly deaths in England and Scotland reached a 20-year high in April with mortality for the week ending April 10 exceeding the previous five year’s average by 76%.Italy recorded 90,946 deaths from February 20, when the first patient diagnosed of Covid-19 died, to March 31. The average for the same period from 2015 through 2019 was 65,592, according to the report from Istat and the National Health Insitute. More than half of the excess deaths were in coronavirus patients, according to the report.Much of the rest of the excess mortality, some 11,600 people, can be indirectly attributed to the pandemic, the report said. Victims may have been those who weren’t able to get needed care because of the strain on the health system, those whose existing illnesses were exacerbated by the coronavirus, or undiagnosed Covid-19 patients.
+
+Italy started easing its stringent lockdown on Monday, after reporting the fewest deaths since the beginning of restrictions on Sunday.
+|May 28, 2020;Why New York Suffered When Other Cities Were Spared by Covid-19;As of this week, at least 21,000 New Yorkers are dead from Covid-19, with a few dozen added to the city’s count every day. More than 3,000 have perished in nursing homes, many more in hospitals. Some died at home. The most brutal toll came among those who were old, poor and in the outer boroughs.
+
+The city’s deaths are 10 times those of Los Angeles County’s. They’ve surpassed the 16,000 lives lost in Italy’s hard-hit Lombardy region. In the U.K., eight times as populous as New York City, about 37,500 have died.
+
+With New York’s outbreak eclipsing others around the world, it’s logical to look for somebody to blame. The mayor, the governor, the president — a human foil for a microscopic villain. But that would be a simplistic approach to accounting for a new virus hitting a dense city, full of people who’d never faced a pandemic threat, enjoying a decade-long stretch of prosperity. “There’s blame to go all around,” said Jeffrey Shaman, director of the climate and health program at Columbia University’s Mailman School of Public Health. “We haven’t been confronted with an infectious-disease threat like this for 100 years.”
+
+There are glimmers of optimism emerging. The virus’s spread is slowing, and New York is moving toward the early stages of reopening by mid-June, Mayor Bill de Blasio said during a Tuesday news briefing.
+
+But a crucial question remains for America’s financial and cultural epicenter: What went so wrong? Bloomberg reviewed past comments by those involved in the pandemic response, and asked the question of disease experts, the U.S. Centers for Disease Control and Prevention and de Blasio.
+
+Here’s what they said about the major factors that led to New York’s outbreak.
+Outbreaks can’t start without a spark. The U.S. shut down most travel from China on Feb. 2, when there were at least 14,000 cases there. But it left open travel from most of Europe until March 13. During that time, Italy went from two known infections to more than 15,000.
+
+In the week ended March 13, 274,000 people arrived at New York-area airports from Europe, and another 174,000 came from the U.K. and Ireland, according to U. S. Customs and Border Protection’s New York field office.
+“We closed the front door with the China ban, which was right,” New York Governor Andrew Cuomo said on April 24. “But we left the back door open.”
+
+Using genetic analysis, it’s possible to trace the lineage of the virus like a family tree with branches around the world. One analysis, from researchers at the Los Alamos National Laboratory, showed that one branch emerged directly from China, with U.S. cases concentrated in Washington state. But a second branch of the virus grew in Italy, and was then imported to New York, rapidly becoming more prevalent.
+
+“We tested people all through February, but it turns out we weren’t testing the right people,” de Blasio said in an emailed statement. “It’s painful to think about how things might have been different had we been able to test someone returning from Europe a month sooner.”
+
+Jay Butler, the CDC’s deputy director for infectious diseases, compared the city to dry kindling in a wildfire.
+
+“New York City is a global destination and had the opportunity for multiple introductions of a virus,” Butler said in an interview. “Because of the amount of travel to New York, particularly related to the increase of disease in Europe, there were multiple sparks landing at once.”Wash your hands and cover your cough: That was the main advice given to New Yorkers early in the outbreak to prevent the virus’s spread.
+
+“We want New Yorkers to go about their daily lives, ride the subway, take the bus, go see your neighbors,” New York City Health Commissioner Oxiris Barbot said on March 2.
+
+The mayor gave the same guidance. “From what we do understand, you cannot contract it through casual contact, so the subway is not the issue,” de Blasio said March 3. Days later, he said, “It has to go from someone who is infected to another person directly into their mouth, their nose, or their eyes.”Health experts have now almost totally reversed that understanding. The CDC told people to begin wearing face coverings in public on April 3, at which point there were more than 5,000 new cases a day in New York. Later that month, the agency updated guidance to say that touching contaminated surfaces didn’t appear to be the primary mode of transmission. There have since been multiple case studies showing clusters of transmission in offices, at churches and other high-density settings.
+
+“Hindsight is 20-20. If we knew everything we knew now, probably there would have been more intervention earlier, but we didn’t have that crystal ball at the time,” said the CDC’s Butler. “Now we know people can be infectious before the onset of symptoms.”
+
+3. Perfect Environment
+
+With the virus’s easy transmission, New York’s shared spaces were a perfect vector to bring the infection from one family to another.
+
+Subways and buses, concert halls, elevators, offices, crowded bars, apartment towers — while other U.S. urban areas have natural social distancing built into their structure through the prevalence of cars and less-dense buildings, New York is defined by crowding.
+
+“In a place that doesn’t have a car culture, that relies on mass transit, there are more opportunities for it to get into households and move around,” said Columbia’s Shaman.A May 8 CDC report drew a similar conclusion. The agency noted that the four most dense counties in America are New York City boroughs. Combine that with public transit, three major transportation hubs and 1.6 million daily commuters into Manhattan, and it’s a perfect human mixing bowl.
+
+In his emailed statement, de Blasio said the city’s mass transit system had been a major factor.
+
+“New York’s subway system stands alone,” de Blasio said. “New York City is different than Los Angeles and Seattle and pretty much everywhere else for how heavily the population relies on travel by subway. The subway has been a lifeline for our essential workers, but we also now know that prolonged, close contact during a commute may have been an issue long before we knew the virus was even in the city.”
+
+4. Slow to Close
+
+For all of New York City’s risk, its leaders moved late on shutting down the city.Cuomo and de Blasio — who have had a long-running, often public feud — disagreed for days over how and when to act. The city closed the schools on March 15. Two days later, de Blasio raised the possibility of a stay-at-home order. Cuomo disagreed, saying it was the state’s decision and that he had “no interest whatsoever or plan whatsoever to contain New York City.” On March 20, he announced that the state would shut all non-essential businesses, and told people to stay home.Butler said those decisions are difficult at the early stages of an outbreak. “When we evacuate a city for a hurricane, we don’t do it based on when there’s something out off the coast of Africa,” he said. “We do it when there’s much clearer visibility of when it’s going to happen. It’s much harder with an infectious disease, particularly a brand new one.”
+
+In hindsight, the city’s actions came late. The day the stay-at-home orders were announced, New York City reported 4,000 new cases — despite a significant shortage of testing. The outbreak was well into the acceleration phase. And with a bigger head-start, the virus kept growing in the city, with new cases peaking 17 days later on April 6.
+
+5. Nursing Homes
+
+As the virus swept through nursing homes — and the city was in an urgent search for hospital beds — the question arose of what to do with elderly patients who recovered.
+
+On March 25, the state made what now appears to be an ill-fated decision to send those people back to nursing homes once they were well enough to leave the hospital. Two months later, Cuomo said the state had followed the federal government’s guidance, and made the rules when the state was scrambling for hospital bed space.
+
+“Is the best use of a hospital bed to have somebody sit there for two weeks in the hospital bed when they don’t need the hospital bed, because they’re not urgently ill? Cuomo said at a press briefing on May 20. “They’re just waiting to test negative.”
+
+Statewide, there have been 5,980 presumed and confirmed Covid-19 deaths in nursing homes and adult-care facilities as of May 24. New York has now changed its rules for sending patients back to the homes, saying hospitals can’t do so until a patient tests negative for the virus.
+
+Unknowns and the Future
+
+Even with the factors that made New York a hot spot, it’s still unclear why it got hit harder than other similarly dense areas. Also unknown are how weather, potential variants of the virus, testing and counting of cases and other factors play a role. And the outbreak is just now breaking over new hot spots like Brazil.
+
+“It’s important to recognize the pandemic isn’t over yet,” Butler said. “Some areas are going to be hit earlier than others.”
+
+Much of New York City’s risk from an outbreak remains. It will forever be a tightly packed city dependent on public transportation, defined by public spaces and close human interaction.“What caused New York City to be hit so hard is something we’ll be studying for a long, long time,” de Blasio said in his statement. “On the one hand, it’s frustrating to think of how things may have been different had we known any of this earlier. On the other hand, it’s informative as we move to reopen.”
+
+In its push to resume activity, the city and state are now considering how to stop the transit system from becoming a disease vector again.
+
+“We anticipate just phase one is easily hundreds of thousands of more people going to work, and then phase two even more so,” de Blasio said. “We still have to make sure that we don't end up with a lot of crowded subway cars and buses. It's got to be very systematic. You need the frequency of the service, you need the face coverings, you need some way to make sure that there isn’t overcrowding.”
+
+Shaman said he’s optimistic that some of the tools are in place to better manage the virus, but that the U.S. hasn’t succeeded so far — though to be fair, few countries have.
+
+“We failed on both ends,” Shaman said. “We disrupted the economy and haven’t controlled the disease.”
+|May 13, 2020;Russian Venture Says Covid-19 Treatment Is ‘Promising’;Russia’s sovereign wealth fund says clinical trials for an antiviral medicine to treat coronavirus patients that it backs has shown potential.The Russian Direct Investment Fund’s joint venture with ChemRar group has been testing favipiravir at 18 clinics in Moscow, Nizhny Novgorod and Smolensk. Preliminary results are “promising,” indicating that 60% of people who receive the treatment test negative for Covid-19 on the fifth day, Chief Executive Officer Kirill Dmitriev said Wednesday.
+
+The fund is seeking to fast-track the drug’s approval in Russia as the country faces a growing problem with Covid-19. It passed Spain with the second-most cases in the world Tuesday, and has averaged over 10,000 new diagnoses a day for the past 11 days.
+
+Favipiravir is a generic version of Fujifilm Holdings Corp.’s Avigan, which in a non-randomized Chinese study in March resulted in faster clearance of the virus than when using an HIV pill. Companies around the world are considering production of it, with Glenmark Pharmaceuticals currently conducting Phase 3 clinical trials in India that might be completed as early as July.
+
+The Russian trials began in April on a group of 330 patients. The 60% cure rate with favipiravir compares with 30% for the control group, according to Dmitriev.
+
+ChemRar Chairman Andrey Ivaschenko said the joint venture is several weeks away from completing the clinical trial and could produce up to 600,000 doses of favipiravir per year. RDIF invested 150 million rubles ($2 million) into the project.
+
+Where Are We in Quest for Coronavirus Drugs, Vaccine?: QuickTake
+
+RDIF has been at the forefront of Russia’s race to contain the coronavirus. It invested 1 billion rubles into Evotech Mirai Genomics, a Russian-Japanese joint venture, that produces test kits for domestic use.
+|May 1, 2020;New Jersey Reports More New Deaths Than N.Y. for Second Day;New Jersey reported an additional 311 deaths from the new coronavirus, the second-straight day that its casualties were higher than neighboring New York’s.
+
+“It’s a staggering toll,” Governor Phil Murphy said at his Friday press briefing.The state has lost 7,538 residents from Covid-19, more than the total number of New Jerseyans who died in World War I, the Korean War, Vietnam War, both Gulf Wars and those in Iraq and Afghanistan. Murphy said.
+
+Though New Jersey’s hospital data are showing signs of improvement, their recovery trails that in New York, which is the epicenter of the U.S. outbreak and has more than twice as many people infected. Combined, the two states have 429,504 cases, more than a third of the U.S. total.
+
+New Jerseyans’ actions this weekend will determine whether the state can take more steps toward reopening, Murphy said. State parks and golf courses will reopen Saturday, and social distancing must be followed, he said. At golf courses, tee times must be at least 16 minutes apart and carts are limited to one person. Water coolers, ball washers. benches and other equipment must be removed from courses and pro shops closed, the governor said.
+
+“I want us all to be able to enjoy our parks together,” Murphy said. “What I don’t want to have to do is close them again.”
+
+Murphy said he hopes to say May 4 or May 5 whether schools will be closed through the end of the academic year in June. In New York, Governor Andrew Cuomo said Friday that schools throughout his state will be closed for the rest of the term. New York deaths rose by 289 to 18,587, but the increase was lower for a sixth-straight day.
+
+State Health Commissioner Judith Persichilli said park visitors should stick to locations close to home. “We cannot abandon these vital measures that have helped us protect one another,” she said.
+
+The testing positivity rate is showing a downward trend, to about 42%, from higher than 44% in recent weeks. More patients were discharged than admitted to hospitals, but the state still has nearly 6,000 residents hospitalized for Covid-19. Cases increased by 2,651, to 121,190.
+
+“Data determines dates” for reopening, the governor said.
+|May 14, 2020;Moscow to Begin Free Antibody Testing to Gauge Covid-19 Immunity;Moscow will begin free mass coronavirus antibody tests on Friday in a program that Mayor Sergei Sobyanin said could lead to the easing of a lockdown that has been in place since late March.
+
+The city, which has over half of Russia’s confirmed cases, will offer the tests at 30 clinics around the city and have the capacity to perform 200,000 tests a day by the end of the month, Sobyanin wrote on his blog Thursday. Residents will be randomly selected and offered the opportunity to be tested in an attempt to determine the level of collective immunity in the city.The tests will help “detect the disease as early as possible in many people, especially those who carry coronavirus asymptomatically,” Sobyanin said. They will allow the authorities “to make informed decisions on easing existing restrictions without jeopardizing people’s life and health.”
+
+Moscow has 130,716 confirmed diagnoses of Covid-19, although Sobyanin said in an interview on state-run Rossiya-24 Thursday that there are significantly more infections. Last week, he estimated there were about 300,000 cases in the capital.Covid-19 cases in Russia have exploded in May, with the country averaging over 10,000 new diagnoses a day and this week passing Spain with the second-most infections globally.However, the daily increase in new cases has slowed from 8.6% on May 3 to 4.1% Thursday, indicating the countrywide lockdown in place since late March has begun to work.The head of Russia’s public health watchdog Anna Popova said the country had managed to stop the growth in new cases, Interfax reported, citing an interview with state television that will air Sunday.
+
+President Vladimir Putin announced the end of the six-week national stay-at-home order on Monday, and major cities are slowly beginning to ease restrictions. In Moscow, Sobyanin has allowed construction to resume while introducing new requirements to wear masks and gloves in public. He said Thursday that moving too fast to lift restrictions risked triggering a new surge in infections.
+
+Antibody tests can show who has already had the virus and may have a degree of immunity, meaning those people can potentially resume social contact with others. However, experts aren’t sure if they provide protection against the virus or how long any immunity could last.
+|May 26, 2020;Summer Camp Might Not Survive Covid-19;For eight glorious weeks each summer, lucky American children get to enjoy activities such as canoeing, swimming and lanyard-making, making new friends by day while retiring each night to cramped cabins in the woods. Parents, meanwhile, get to enjoy a couple months of alone time.
+
+Surely, you see the problem: Summer camp and the coronavirus don’t go well together.This week, many sleepaway camps across the country are making the economically devastating choice to stay closed for the season, days before they begin to incur the high costs of vendor contracts, site preparation and staff salaries. Day camps are struggling as well.
+
+“A portion of the operation costs are spent before the child arrives,” said Cori Solomon, executive director at the Appel Farm Arts and Music Center in Elmer, New Jersey, which hosts 450 sleepaway campers and 100 staffers each year. “Financially, the options are pretty grim.”Sleepaway camps typically collect tuition in installments beginning the summer before, from August through May, while some parents pay in full for a discount. By the time summer comes around, roughly one-third of the tuition has already been spent. This year, new enrollments plummeted and many parents canceled spring payments while demanding refunds, leaving camps in the lurch.
+
+Most are urging parents to accept deferred spots for next summer or, at non-profit camps, to convert to tax-deductible donations—which directors said may be essential to survival. 
+
+“Sadly I think you’ll see a lot of camps that aren’t able to make it through,” said Solomon.
+
+Those most at risk of closing for good are independent camps with budgets under $2 million that get most or all of their funding from summer tuition, said Paul McEntire, chief operations officer of the YMCA of the U.S.A. Camps often have high debt loads and thin margins, the latter of which is especially the case for camps serving predominantly scholarship campers. 
+
+Insurance is unlikely to help, either. “We were told by our broker that our claim will be 100% denied, because pandemics are not in any of our policies,” said Solomon. The American Camp Association estimates there are 14,000 camps in the U.S., fueling an $18 billion industry. Most are day camps that serve as child-care for working parents. Many of those plan to operate to the extent allowed by local coronavirus regulations. McEntire said that many of the YMCA’s 10,000 day camps are currently scrambling to lease extra space to meet social distancing rules.
+
+Most of the familiar, established camps are likely part of a larger organization with multiple income streams. For example, the YMCA has 325 sleepaway camps in the U.S., only 25 of which are stand-alone camps. The remaining 300 YMCA sleepaway camps are arms of local YMCA associations that draw revenue from activities like aquatics, exercise memberships and after school care.
+
+“These camps will succeed based on how their overall Y succeeds,” said McEntire.
+
+But the YMCA’s 25 standalone camps are in crisis: 19 already plan to close this summer, a number that will rise, he said. By hunkering down and running an “absolute skeleton crew,” McEntire hopes they survive until next summer. 
+
+Independent camps are “all over the map,” when it comes to finances said Tom Rosenberg, chief executive of the American Camp Association. Some have started crowdfunding campaigns or applied for assistance grants. Others are pivoting to pandemic-friendly models, such as family camps and retreats where small groups can maintain social distancing measures.Among the higher-end and bigger-name camps, the outlook is less grim. Many are able to run year-round conferences, retreats, training programs and family weekends that generate off-season revenue. Others are able to turn to donations to tide them over.
+
+“It’s just like any other small business,” said Rosenberg. “If you lose an entire year’s income, it’s still possible to survive, but you probably have to change your business model.” 
+
+Doron Krakow, chief executive and president of the Jewish Community Center (JCC) Association of North America, is confident about the survival of the JCC’s 161 day camps and 25 overnight camps, which serve almost 100,000 youth. Most of the JCC sleepaway camps will remain closed, but help is on the way.
+
+“We are working closely with some very large foundations in order to provide access to crisis resources to assist these camps,” he said. “I expect that millions of dollars will pour into the field.”
+
+The Harold Grinspoon Foundation is currently matching parents’ donated tuitions up to $10 million, and The Jewish Community Response and Impact Fund is providing more than $91 million in interest-free loans and grants to maintain a variety of Jewish organizations. 
+
+Camps that run on college campuses are particularly vulnerable, however. Marisa Debowsky, executive director of Mathcamp, a 5-week educational summer program, doesn’t know whether colleges will host residential summer camps again. Some colleges had already stopped inviting minors on campus to reduce liabilities. “The universities need to serve their own students,” she said. “So it’s just not clear whether programs like mine will return in the same format.” Her camp is running virtually this summer, she said.
+
+The true financial carnage will come early next year. “Non-profits aren’t really going to know how bad things are until December,” said Debowsky. “That’s when all the charitable giving happens.” When global attention remains on the primary medical needs of a pandemic and a likely second wave—personal protective equipment and a vaccine—charitable donations to camps will likely seem unimportant. 
+
+“I think most camps will get by,” said McEntire. “The worry would be if for some reason this crisis has lingered into next summer. That would be a very, very different story.”
+|May 5, 2020;Covid-19 is now suspected of playing a role in the death of more than 32,000 people in the U.K., government data show.;That’s higher than the number of fatalities in Italy and Spain, the other European countries hit hardest by the virus, though deaths there are recorded on a confirmed case basis. The U.K. statistics include all mortalities where the virus was mentioned on the death certificate, regardless of whether it was confirmed or not.
+
+The country has passed the peak of infection following a lockdown on March 23, though health officials caution that outbreaks will continue until a vaccine can be found.On Tuesday, England and Wales reported a decline in weekly deaths for the first time since the Covid-19 epidemic escalated in late March. There were 21,997 deaths registered in the week ending April 24, a slight fall from the previous week, the ONS said.
+
+That’s still more than double the average figure for the same week over the previous five years. Mortalities in care homes continued to rise.Tracking the toll from the pandemic has been difficult to do in real time. Until last week, only deaths in hospitals were included in the daily official count given by the government. The data provided by the ONS lags the government’s data substantially, making it hard to draw conclusions about the present state of the epidemic.
+
+Other key numbers:
+There was 8,237 mortalities in the week ending April 24 where the death certificate mentioned Covid-19, a small decline on the previous week
+Deaths in care homes bucked the trend by rising 8.1% to 7,911 from the previous week, suggesting that the virus is still taking a toll against the most vulnerable.
+The wider number of fatalities fell by 354 in the week ending April 24 from the previous week.
+Since the week ending March 13, total excess deaths registered in England and Wales stand at 38,554 compared with the five-year average. Prior to that, deaths in 2020 had been running below the average due to a less virulent flu season.
+|May 31, 2020;Italy’s New Coronavirus Cases on Declining Trend on Sunday;Coronavirus infection continued to decline in Italy, with 355 new cases reported Sunday compared with 416 a day earlier.Daily deaths were 75, down from 111 on Saturday. In all, 33,415 people in Italy have lost their lives since the pandemic struck in February, including 16,112 in Lombardy, the region around Milan that was one of the original epicenters of the virus in Europe.
+
+The government confirmed plans to allow travel between regions starting June 3 even as some local governors in regions with few cases opposed letting people from Lombardy move freely. Lombardy still has the highest ratio of new cases per 100,000 people, according to data published by the health ministry covering May 18-24, after lockdown measures were eased further.
+
+The governors of the Campania region around Naples and of the island of Sardinia have threatened to close their borders to travelers from areas that still have lots of cases. Lombardy has 38% of Italy’s total cases, while Campania and Sardinia have 2% and 0.6% respectively.
+|May 1, 2020;U.K. Provides 122,347 Tests, Claiming Key Coronavirus Target Met;U.K. Health Secretary Matt Hancock declared he had met his target of carrying out 100,000 coronavirus tests a day -- a crucial political goal -- but his assessment was immediately called into question amid claims he had massaged the numbers.After weeks of criticism that the government had failed to roll out an adequate testing program, Hancock set a target at the beginning of April to complete 100,000 coronavirus a day tests by the end of the month. Officials and health specialists say testing is vital to getting a grip on the outbreak and enabling lockdown measures to eventually be lifted safely.
+
+Speaking on Friday, Hancock said the target had been achieved, with 122,347 tests “provided” on Thursday.“I knew that it was an audacious goal, but we needed an audacious goal,” Hancock said at the daily Downing Street press conference. “This unprecedented expansion in British testing capability is an incredible achievement. It’s not my achievement, it’s a national achievement.”
+
+Yet within minutes of the minister’s declaration of success, he was facing questions over what the figures referred to. The 122,347 total announced by Hancock included 40,369 tests that had been sent out -- including to people in homes, care homes and some hospitals -- but that had not necessarily been processed.
+
+Massaged Metrics
+“Many would have expected the 100,000 promise to have been met by actually carrying out testing,” said opposition Labour Party health spokesman Jon Ashworth said. “Tonight’s headline figure shouldn’t count tests that hadn’t been used, or indeed, might never be used as a completed test.”
+
+Ed Davey, leader of the Liberal Democrats, accused the government of massaging the numbers -- a suggestion the government rejected.
+
+“The Health Secretary’s arbitrary target of 100,000 tests by the end of April was always a hostage to fortune, and the truth is, he missed it,” Davey said in an email. “It’s extremely disappointing the government have decided to massage the metrics rather than admit they fell short, as this will only undermine public confidence.”
+
+Hancock set the target for Covid-19 tests at a time when Boris Johnson’s government was under fire over its response to the pandemic, especially after it abandoned community testing in the middle of March -- a decision scientists and political critics have said may have contributed to the rapid spread of the disease in the following weeks.
+
+The total number of deaths in the U.K. rose to 27,510 on Friday, up 739 on the previous day.
+
+Second Peak
+Hancock’s 100,000 testing target was controversial from the day it was announced on April 2. Some of Johnson’s officials have in the past played down the significance of testing, especially when reporters drew comparisons with much greater number of tests done in countries including Germany.
+
+While the U.K. is now past the peak of infections, health officials are warning the outbreak may last until a vaccine is found. That means the need to track the spread of the disease will be critical to lifting movement restrictions in a way that avoids a second peak, they said.
+
+Similar track-and-trace systems have been credited with reducing the spread of the virus in countries including South Korea, which has so far avoided the need for a full lockdown.
+
+John Newton, the health official running the government’s testing program, said the lack of testing in the early stages of the outbreak had not lengthened the nation’s lockdown. The virus was already spreading too widely to be tracked when the restrictions were introduced, he said.
+|May 21, 2020;Abbott Says Study Data Shows High Accuracy for Covid-19 Test;Abbott Laboratories said an ongoing study showed that its ID NOW Covid-19 test had a high rate of accuracy, as the company attempts to counter a claim by outside doctors that the test may return too many false negatives.
+
+Partial data from the company-funded study showed that it accurately detected the virus 94.7% of the time, and correctly gave negative results 98.6% of the time, Abbott said in a statement. The study, which is ongoing, analyzed samples from 256 patients and compared the results to a test developed by the U.S. Centers for Disease Control.
+Abbott rose 0.8% after the market closed in New York. The shares fell last week after researchers at New York University said their independent study had shown that Abbott’s desktop-printer-sized machine may miss as many as half of positive cases. The Food and Drug Administration said on May 15 that it was looking into the reports and issued an alert.
+
+Abbott has criticized the NYU study, saying the researchers didn’t use the ID NOW machine as intended and that results can be affected by how samples from patients are handled and stored. The machine, which is in use at the White House, can take a sample from a nasal swab and diagnose a coronavirus infection in less than 15 minutes. Such rapid tests are considered crucial for quickly diagnosing patients at a doctor’s office or other testing site.
+In the Abbott-sponsored study released Thursday, patients were tested at a mean of 4.1 days after beginning to show symptoms. The test is the most accurate when it’s run early after symptoms emerge, often the time when patients are most likely to seek medical attention, the company said.
+|May 9, 2020;Virus Spread Slows From Spain to Germany as Lockdowns Ease;New coronavirus infections and deaths declined in Germany, France and Spain as all of Europe watches their efforts to gradually ease the lockdowns that sought to tame the pandemic.Spain, which lifted a ban on outdoor exercise last Saturday, recorded the fewest new cases and deaths in five days. Small shops in much of the country are preparing to reopen on Monday, three weeks after Germany took a similar step. Daily deaths in Italy fell to less than 200 for only the third time since mid-March. France reported 80 new deaths, the fewest since at least March 20.
+
+France is loosening restrictions on businesses and stores on Monday, though strict controls will remain on public transport in Paris. Germany is set to open restaurants, hotels and all shops and restart professional soccer games. Only parts of Spain will get a respite because restrictions won’t be eased yet in cities including Barcelona and Madrid, the epicenter of the country’s outbreak.“This 51% of the Spanish population will get back a greater part of their lives” after the whole country fought the outbreak, Prime Minister Pedro Sanchez said Saturday. Spain has the most number of confirmed cases in Europe.
+
+Despite more than 150,000 deaths in Europe, leaders are feeling the heat to accelerate a return to normality and restart an economy that may be set to contract the most since the Great Depression. While European Union countries are testing the waters on rekindling social and economic life, borders will remain shut until mid-June, limiting transport and commerce.Late on Friday, euro-area finance ministers agreed to allow the region’s bailout fund to extend an estimated $260 billion in credit lines to each of the bloc’s governments on concessionary terms as leaders seek to cushion the economic blow of the pandemic. France’s parliament on Saturday extended the country’s public-health emergency until July, prolonging the government’s special powers to stem the pandemic.
+
+Outside the euro region, Russia’s new cases topped 10,000 for a seventh straight day, leapfrogging on Friday the size of the outbreak in France and nearing levels recorded in the U.K., Italy, and Spain, the region’s hardest-hit countries.The strictness of lockdown measures varies greatly in Eastern Europe. Belarus today ignored the pandemic risk and held a large military parade to mark the 75th anniversary of the end of World War II in Europe. Thousands gathered in the streets of Minsk for the event, with little social distancing. The country’s authoritarian President Alexander Lukashenko said that not holding the event would be a “betrayal” of the country’s war dead.U.K. Road Map
+In the U.K., the end of the war was commemorated with a two-minute silence on Friday, but no public gatherings were sanctioned. With more than 31,500 fatalities, the U.K. has suffered the most deaths from the virus in Europe. Another 346 deaths were reported on Saturday, with almost 4,000 new cases of the virus.
+
+Prime Minister Boris Johnson, who was at risk of dying from Covid-19 last month, is under pressure to ease the country’s lockdown even after a week in which the death toll exceeded 600 on several days. Johnson will lay out a road map out of the lockdown on Sunday, though he is expected to largely keep restrictions in place until June.
+
+Virus-related restrictions are prompting Britons in crowded cities to look to move to the countryside in record numbers, the Guardian reported. Inverness in the Scottish Highlands saw the biggest year-on-year increase, with home searches up 167%, the paper said.
+
+Johnson’s government has been criticized for being slow to respond to the risks of the virus even after cases began to spread in the U.K. in January. Now, there may be evidence that the virus may have been in Europe much earlier than that.
+
+The outbreak could have started as early as October, according to a joint U.K.-French study cited by the Telegraph. A French athlete who participated in the World Military Games held in Wuhan, China in October suffered symptoms matching Covid-19, the paper said.
+|May 15, 2020;Italian Businesses Set to Reopen, With Travel Ban Lifted June 3;Italy is set to open businesses from bars to hairdressers on Monday, while Prime Minister Giuseppe Conte’s government decided to unblock the country’s national borders and allow citizens to move freely within the country starting June 3.Italians will be allowed full free movement, according to a government decree published in the early hours of Saturday morning. The statement confirmed that some businesses will reopen May 18, while it stopped short of allowing social gatherings.
+
+Portugal, Spain and Greece also eased some of their measures earlier, signaling optimism that southern Europe’s scarred economies can start to recover from the Covid-19 crisis.
+
+Conte’s announcement came hours after Italy said its daily virus-linked deaths fell to 242 on Friday from 262 a day earlier, and the number of confirmed new cases was the lowest in four days. Though responsibility was handed to Italy’s regions, the government can reimpose restrictions, including local lockdowns, to control any new outbreaks.
+
+Conte, who shut down most of the economy in early March to combat the spread of the coronavirus, allowed manufacturers and construction companies to return to full operations early this month, while also giving Italians slightly more liberty, allowing activities like walking, jogging and visits with family and loved ones.
+
+The administration approved a second stimulus package worth 55 billion euros ($59.5 billion) on Wednesday in a bid to reduce the economic impact of the pandemic. The plan focuses on liquidity for businesses and aid to families hurt by the lockdown. A 25 billion-euro package was passed in March.The European Commission forecasts that Italy’s economy will shrink 9.5% this year while Bloomberg Economics sees a 13% contraction. With tax revenue collapsing and a desperate need for stimulus, the country’s mammoth debt will rise to well over 150% of gross domestic product, the commission said.
+
+European Easing
+The Lombardy region around Milan, the area hardest hit by the pandemic, adopted rules the guarantee the reopening of restaurants, bars, hairdressers and other activities, regional governor Attilio Fontana said in statement on Saturday.Portugal, which depends on tourism for about 15% of its economy, plans to reopen beaches on June 6, with distancing rules and limits on crowd sizes, Prime Minister Antonio Costa said Friday in Lisbon. Greece will relax restrictions on domestic travel next week, though ferries will be able to sail only half-full.
+
+Spain decided to move about 70% of the population into the second phase of lockdown easing. Tighter curbs remain in force for Madrid and Barcelona, though shops in the two big cities will no longer be required to give out appointments to customers, Health Minister Salvador Illa said.
+
+In the U.K., Boris Johnson’s government is locked in an argument with England’s unions over whether to allow primary schools to reopen on June 1. Unions want to prioritize testing before allowing teachers into the classroom, a stance backed by the doctors’ union, which says schools should remain closed until the number of coronavirus cases is lower.
+
+There are more than 238,000 confirmed cases in the U.K., the third-highest in the world after the U.S. and Russia.
+|May 20, 2020;Japan’s Virus Drug Trial To Continue, Researcher Says;The lead researcher on a trial of the Japanese antiviral Avigan to treat Covid-19 said it’s too early to make a call on whether the drug works or not, and patients are still being enrolled.Final results of the trial for the drug, which is manufactured and sold by Fujifilm Holdings Corp., is expected around July, Yohei Doi, a doctor who is leading the trial at Fujita Health University, said in an interview with Bloomberg News.
+
+Doi’s comments came amid conflicting reports over the drug’s efficacy. Japanese media reports on Wednesday said the off-patent drug was not effective based on interim analysis of Doi’s trial, but Prime Minister Shinzo Abe has said he expected the treatment to be approved for use this month.Doi said that time line seemed tight given how few days remain this month.
+
+Fujifilm Falls
+Fujifilm shares fell as much as 4.9% in Tokyo trading Wednesday on the reports, which Doi said were misleading as they’re based on an interim analysis -- an independent mid-point review of the results.
+
+“Interim analysis is a routine procedure in these clinical trials,” Doi said, “and it was not meant to evaluate efficacy.”
+
+Doi’s trial, sponsored by Japan’s Ministry of Health, is not connected to two separate randomized control trials Fujifilm is running -- one in Japan and one in the U.S. The Japan trial is in progress and is expected to be completed in June, a Fujifilm spokesman said. The U.S. trial is targeted for completion in December.
+
+As the coronavirus continues to spread, upending economies and life around the world, drug companies have been racing to develop treatments and vaccines. Any early and non-conclusive news on these potential medicines has prompted knee-jerk reactions from investors, shifting trillions of dollars in value in the markets.
+
+Shares of vaccine developer Moderna Inc. and drugmaker Gilead Sciences Inc., which manufactures another potential Covid-19 drug remdesivir, have whipsawed in past weeks off similar types of news.
+
+Moderna Falls From Record as Euphoria of Vaccine Data Wears Off
+
+Chief Cabinet Secretary Yoshihide Suga confirmed at a press briefing Wednesday that Japan is targeting an approval for Avigan this month if its safety and efficacy has been proved. Fujifilm said the company has not filed an application to approve Avigan to treat Covid-19 with the Japanese government.
+
+Avigan, also known as favipiravir, has been promoted heavily by the Japanese government despite the lack of conclusive evidence about its efficacy, and has been donated to over 80 countries in recent months. The drug, which has the potential to cause birth defects because of its mechanism of stopping RNA replication, is approved for use in Japan to treat novel influenza.
+
+An early Chinese study of favipiravir, which was not randomized, showed it helped clear the coronavirus in patients earlier than an antiviral HIV medication. The treatment was not added to the recommended Covid-19 regimen in China after an official said in March it was considering the matter.
+
+Likely Inconclusive
+As the principal researcher, Doi is prevented from seeing the interim results to maintain objectivity, but said he expects it was likely inconclusive as he is still continuing the enrollment.
+
+The interim analysis is done to check if the drug “is working way better than expected or if there’s unexpected adverse events. That doesn’t seem to be the case either way,” he said.
+|May 1, 2020;Popeyes’ Chicken Sandwich Drives Sales Growth Despite Lockdown;Popeyes chicken sandwich fans haven’t been stopped by coronavirus quarantines.
+
+Restaurant Brands International Inc. reported that comparable sales at its Popeyes Louisiana Kitchen restaurants grew 26% in the first quarter. Tim Hortons’ comparable sales fell 10.3% in the same period; Burger King’s dropped 3.7%.The company said that Popeyes’ buttermilk fried chicken sandwich, which sold out less than a month after it was first offered nationally last August, was the driver behind the chain’s sales. Almost all Restaurant Brands’ North American stores were open during the first three months of this year.
+
+The chicken sandwich was a bright spot for Restaurant Brands. Tim Hortons, the company’s Canadian coffee chain, faced pressure as stuck-at-home consumers weren’t stopping for caffeine and pastries on the way to work. McDonald’s and Taco Bell also this week said that breakfast was suffering.
+|June 9, 2020;Jared, Kay Owner to Permanently Close Hundreds of Jewelry Stores;The owner of jewelry chains Jared and Kay won’t reopen hundreds of stores following the pandemic shutdown, adding to the pain for American malls as the company speeds a shift to digital.
+
+Signet Jewelers Ltd., which also owns Zales, will make lockdown-related store closures permanent at more than 150 locations in North America and 80 in the U.K. The company is also in discussions with landlords as it prepares to shut another 150 shops, bringing the total planned closures to at least 380 this year, or 12% of total stores.The jeweler joins scores of retailers rethinking their footprint as the economic turbulence of the coronavirus pandemic accelerates the shift away from malls and toward online sales. Chief Executive Officer Gina Drosos is in the middle of a multiyear turnaround plan centered on expanding e-commerce and eliminating poorly performing stores.
+
+Key Speakers At Fortune's Most Powerful Women Conference 
+Gina Drosos speaks during the Fortune’s Most Powerful Women conference.Photographer: Patrick T. Fallon/Bloomberg
+“Shopping malls will continue to be an important part of a customer shopping experience but it’ll vary mall by mall,” Drosos said in an interview Tuesday. The company is using a “hyperlocal data analytics process” to determine which malls are worth staying in.
+
+Retailers of all types are taking a hard look at their store networks as they navigate a monthslong shutdown of non-essential stores in the U.S. and abroad. As many as 25,000 stores may close permanently this year, mostly in malls, according to Coresight Research. That would be by far the most ever.
+
+Temporary Closures
+All of Signet’s 2,800 jewelry stores in North America temporarily shut down in March due to the pandemic. In April, the jeweler, which has about 3,200 locations worldwide, began furloughing employees at stores and support centers in order to save cash.
+
+As a result, sales fell more than 40% to about $852 million last quarter, the company said Tuesday. Online sales rose 6.7%, including a 55% spike in April excluding a distribution center shutdown, but it wasn’t nearly enough to offset the hit from the mass store closures.
+
+Signet has expanded its digital efforts in recent months, including offering live consultations for shoppers at home. It has also held national trunk shows for bespoke merchandise online, rather than traveling to stores around the country.
+
+Signet has reopened more than 1,100 U.S. stores over the past six weeks, with about a quarter only offering curbside pickup. At the fully-opened locations, the shopping experience is not quite the same because of Covid-19 safety measures. Jewelry is cleansed with alcohol wipes before and after customer test, and workers wear masks and gloves when appropriate.
+
+“All of us need to see how we come through Covid-19,” said Drosos. “We want to continue to be agile.”
+|May 11, 2020;Infections Near U.S. Meat Plants Rise at Twice the National Rate;The coronavirus spread at more than twice the national rate in U.S. counties with major meatpacking plants in the first week after President Donald Trump issued an executive order directing that they be reopened.
+
+Confirmed Covid-19 cases jumped 40% during the week following the order in counties with major beef or pork slaughterhouses, compared with a 19% rise nationally, according to a Bloomberg News analysis of data compiled by Johns Hopkins University. The counties accounted for 10% of new confirmed cases from April 28 to May 5 while representing just 7.5% of the U.S. population.
+
+Infections climbed even faster where slaughterhouses were outside major population centers, and may have a greater impact. The disparity underscores the extent to which the areas around meat processors -- many located in rural regions far away from initial hot spots -- have become epicenters of the virus. The data doesn’t address other types of industrial facilities that may be in those counties.The situation worsened in the first week after Trump’s April 28 executive order despite temporary closures at many meat plants. The county-level data in most parts of the country doesn’t identify the employers of people infected.Virus outbreaks at meatpacking plants are likely now spreading more widely in surrounding communities, said Nicholas Christakis, director of Yale University’s Human Nature Lab and a specialist in how contagion travels through social networks.“We cannot somehow think that we can ignore a hotspot near us and not be affected by it,” Christakis said. “What starts in a meatpacking plant doesn’t stay in a meatpacking plant.”
+
+The Trump administration has pressed to reopen meat plants after a series of shutdowns due to the pandemic dramatically reduced slaughter capacity, sending pork and beef prices surging while farmers with no place to sell hogs began culling herds at huge financial losses.
+
+Thousands Infected
+Large portions of the workforces at some U.S. meat-processing facilities tested positive for the virus.
+
+A Tyson Foods Inc. plant in Perry, Iowa, had 730 cases, representing 58% of employees, Sarah Reisetter, deputy director for the state’s health department, said on Tuesday.
+At another Tyson plant, in Waterloo, Iowa, there were 1,031 reported cases among about 2,800 employees as of Thursday, said Joseph Pikora, disease surveillance manager for the Black Hawk county health department.
+At Smithfield Foods Inc.’s plant in Sioux Falls, South Dakota, preliminary results show 870 infected people of the 3,268 workers and family members tested, Governor Kristi Noem said.
+All three plants have started to reopen.
+
+Conditions at meatpacking plants -- including difficulty maintaining social distance and adhering to heightened cleaning standards -- contributed to the spread of the virus, the U.S. Centers for Disease Control and Prevention concluded in a May 1 report.
+
+At least 30 meat workers have died of coronavirus and more than 10,000 have been infected or exposed, according to the United Food and Commercial Workers International Union. At least 30 plants have closed at some point in the past two months, the union said May 8.
+
+The industry attributes the high infection rates to aggressive testing. “There is no other industry or community that is monitoring their people as diligently as we are, except maybe healthcare,” said Sarah Little, a spokeswoman for the North American Meat Institute.
+
+Read More: How Will the U.S. Meat Industry Change From Coronavirus?
+
+Agriculture Secretary Sonny Perdue said Friday that 14 major meat processing facilities were reopening. The department asked all meat processors to come up with plans to meet safety guidelines for the industry released by the CDC.
+
+The counties studied house beef or pork slaughterhouses that the U.S. Department Agriculture has ranked in the largest category on a 1-to-5 scale.
+
+In counties with major slaughterhouses that have less than 1 million people, there was a 47% increase in confirmed cases for the week. Those 72 counties accounted for 5.8% of the nation’s new infections, though they represent only 3.1% of national population.
+|May 13, 2020;China Seals Off Cities Near North Korea as New Clusters Grow;China is sealing off cities in a northeastern province that borders North Korea as a growing cluster of cases threatens to undermine its hard-won containment of the coronavirus epidemic.
+
+Jilin city, the second-largest city in Jilin province, saw bus and rail services halted and residential compounds closed off on Wednesday after the discovery of six new cases of infection. Recently reopened schools were closed again.These six people had contact with another cluster in the adjacent city of Shulan, which was earlier put under lockdown on Sunday, suggesting that some amount of undetected spread has already taken place before authorities ordered renewed restrictions.Overall, at least 22 infections spread across three cities in two provinces -- Jilin city and Shulan in Jilin province, and Shenyang city in Liaoning province -- have now been linked, making it one of China’s biggest clusters that has emerged in months.While there has been no confirmed link between the cluster and North Korea, the cities’ proximity to the isolated country has ignited fears that an outbreak there is spilling over to China. North Korea has yet to confirm any Covid-19 infections, but the U.S. military said it suspects there are cases, and Kim Jong Un’s regime has accepted help from other nations to fight the virus.
+
+China is on high alert against any resurgence of the virus ahead of its annual political gathering now set for later this month in Beijing. Earlier this week, Wuhan said it would test its entire population of 11 million after a handful of new cases were detected for the first time since its lockdown lifted on April 8.
+
+Wuhan to Test Whole City of 11 Million as New Cases Emerge
+
+The 4.5 million residents of Jilin city are now only allowed to exit city limits after testing negative for coronavirus and completing self-quarantine, said a local health authority statement on Wednesday. Buses and train services have been halted, in movement restrictions reminiscent of the Jan. 23 lockdown of Wuhan.
+
+Surrounding cities in Jilin province have also shut down entertainment venues, and implemented strict controls on access to public places.
+
+“There are no pedestrians on the street, only some sporadic cars,” said Wei Hong, 19, a resident in Jilin city’s hardest-hit area of Fengman district.
+
+Jilin will implement epidemic control measures that are similar to those in “high-risk” urban areas to prevent spread of the disease, Vice Mayor Gai Dongping said at a briefing on Wednesday. The city is conducting an epidemiological investigation under the guidance of a national expert team and more than 2,500 people have been screened so far with 367 close contacts of the confirmed infections tracked down, he said.
+
+China’s northern border with Russia, which now has one of the biggest outbreaks in Europe of more than 232,000 sickened and 2,000 dead, also poses a threat. Strict controls have been imposed in the Chinese province of Heilongjiang that borders Russia requiring 35 days of quarantine for travelers.
+|May 20, 2020;Mexico’s Covid-19 Deaths Rise by Record as Economy Restarts;Mexico reported a record daily increase of 424 Covid-19 deaths, bringing the total to 6,090, according to a Health Ministry presentation at a news conference Wednesday evening. Total cases rose by 2,248 to 56,594.
+
+The increase in deaths comes as Mexico has begun opening municipalities with few or no coronavirus cases to economic activity. The country has also decided to include auto production, mining and construction as essential activities, allowing those industries to reopen their factories if they meet health and safety guidelines.Even so, hundreds of towns, many of them rural, that were allowed to reopen are refusing to lift their lock-downs fearing a spread of the virus. President Andres Manuel Lopez Obrador, who has said his country is overcoming the pandemic, announced Mexico’s economy would start opening just as deaths from the virus began to hit record highs.
+
+The pandemic is expected to hit Mexico’s economy especially hard. Analysts forecast a 7.6% contraction for 2020, according to a Citibanamex survey released today, and the country lost a record number of formal jobs in April. Deputy Health Minister Hugo Lopez-Gatell, who’s overseeing the country’s response to the virus, has said Mexico must balance people’s need to work to survive and community health as it restarts its economy.
+|May 1, 2020;Trump’s Latest Attack on Sweden Revives Covid-19 Controversy;Donald Trump’s latest verbal attack on Sweden has reignited a debate on whether the country’s relaxed approach to fighting Covid-19 is madness or genius.
+
+The U.S. president, who is facing criticism at home for initially playing down the threat of a pandemic, on Thursday sought to direct attention toward developments in Sweden.Johan Carlson, the director general of Sweden’s public health agency, said Trump’s comments aren’t weighing on his deliberations. “The important thing is that you make sure you keep the disease under control so that the health-care system isn’t overloaded, and so far we’ve managed that,” he said, according to a report in Aftonbladet.But Trump’s latest outburst has once again drawn attention to Sweden’s controversial response to fighting the coronavirus. The country has left schools, hairdressers, restaurants, gyms and much of the rest of society open. Instead, the government has urged citizens to act responsibly and observe social distancing guidelines.
+
+Initially, there was near universal condemnation of Sweden’s decision to avoid a full lockdown. But more recently, opinions have evolved after the country’s top epidemiologist declared the strategy a success amid signs the rate of infections is stabilizing.
+
+Johns Hopkins University data shows Sweden’s death rate is about 24 per 100,000 versus 19 in the U.S. But according to Sweden’s health minister, Lena Hallengren, the data don’t yet tell the full story.
+
+“We’re in different phases, and we’re just, unfortunately, in the beginning of this pandemic. So it’s too early to draw any firm conclusions,” she said in an interview with Bloomberg Television.Anders Tegnell, the mastermind behind Sweden’s approach, says the idea is to come up with a model that can stay the course, based on an assumption that Covid-19 isn’t going away any time soon.
+
+Read More: Covid-19 Pandemic Likely to Last Two Years, Report Says
+
+In a recent interview with Danish state broadcaster DR, Tegnell said, “The long-term sustainability of strict rules isn’t that big. You can only impose such restrictions for a limited time. So you need to find a different way, and our model may prove more sustainable.”
+
+It’s a notion that won the support of the World Health Organization this week. Michael Ryan, who runs WHO’s health emergencies program, says that “if we are to reach a new normal, in many ways Sweden represents a future model.”
+
+Importantly, Sweden’s laissez-faire approach has at no point resulted in a rate of infections that has overburdened the country’s health-care system, thanks to its universal, state-funded model.
+
+There’s also some confusion as to what the statistics on national death rates actually measure. Swedish authorities say they’ve been meticulous in reporting fatalities in nursing homes, which isn’t the case in some other countries. On Friday, Sweden reported another 67 Covid-19 deaths, bringing the total to 2,653, according to national data. The number of people infected with the virus is 21,520.
+
+Others have pointed to Sweden’s comparative affluence as an important factor in helping the country deal with the virus. HSBC Global Research economist James Pomeroy notes that more than half of Swedish households are single-person, making social distancing easier to carry out. More people work from home than anywhere else in Europe, and everyone has access to fast Internet, which helps large chunks of the workforce stay productive away from the office.
+
+Tegnell, the country’s chief epidemiologist, says that “other countries might be able to learn something from Sweden now.”
+|June 9, 2020;Harvard Offers Staff Early Retirement to Reduce Expenses;Harvard University is asking employees to consider a series of voluntary measures, including early retirement, giving up vacation and reducing work hours as it faces a revenue shortfall of $1.2 billion over two academic years.
+
+The Ivy League school is also extending pay and benefits beyond June 28 for directly employed staff and contract workers whose work has been idled because of the coronavirus pandemic, such as dining, custodial and security workers, executive vice president Katie Lapp said in a statement Tuesday. The school isn’t considering furloughs or layoffs, she said.Colleges including Harvard are grappling with how to resume classes in the fall semester, either online or in person, amid worries of a second wave of the coronavirus pandemic. U.S. schools face an economic squeeze from less tuition if fewer students decide not to enroll and loss of room and board revenue if they can’t return to campus. At Harvard, a limited number of workers have been reporting to campus in essential on-site roles, and the university is restarting its laboratory facilities.
+
+
+Harvard “will not be pursuing any furloughs or layoffs of our employees at this time,” Lapp said. “We will continue to assess the effectiveness of the voluntary programs and other cost-saving measures we are enacting to determine if we can continue to manage budget shortfalls or if we need to consider other steps, including workforce actions, in the future.”
+
+Under the Cambridge, Massachusetts, school’s plan, eligible workers who take the early retirement buyout get an additional year of pay. The vacation option enables permanent employees to spend down their accrued time to help trim costs for their departments. Under the work-hours program, staff can cut back their time from 10% to 50% for a minimum of two months if their manager approves.Harvard, with an endowment valued at $40.9 billion in June 2019, is the richest U.S. University.
+
+“We have not made a decision yet whether or not to bring students back or how many to bring back,” Harvard President Lawrence Bacow said last week in an interview with Bloomberg Television. “We’re trying to delay that as much as possible.”
+|May 18, 2020;Iran Records Its Biggest Rise in Coronavirus Cases in Six Weeks;Iran reported 2,294 new coronavirus cases on Monday, the highest daily increase in more than six weeks, according to official Health Ministry figures.The rise took the overall tally to 122,492 confirmed cases of the disease, with more than 7,000 deaths, Kianush Jahanpur, spokesman for the ministry, said in a televised statement. Iran last month began lifting some restrictions imposed to curtail the virus.
+
+|May 11, 2020;How to End the Plasma Shortage for Coronavirus Patients;While we’re waiting to find a cure or vaccine for Covid-19, a leading treatment is convalescent plasma therapy,  which uses antibody-rich blood plasma from a recently recovered patient to boost a sick person’s immune system. After promising initial studies, the Food and Drug Administration recently  expanded the therapy’s authorization for emergency use while full clinical trials are underway. 1
+
+But convalescent plasma is in short supply: although it’s hard to estimate precisely, some statistics suggest the U.S. may need twice as much as we have on hand.In a new paper, Parag A. Pathak, Tayfun Sonmez, M. Utku Unver and I propose a market design strategy that could help close the gap. 2 Our approach makes use of two special features of the way plasma donation works.
+
+First, convalescent plasma is collected from recently recovered patients, which means that today’s patients become tomorrow’s prospective donors, assuming they manage to beat the virus. That implies a kind of aggregate market balance: when there are many patients battling Covid-19, there are also many who recently recovered and can donate plasma. That suggests the shortage isn’t from lack of potential supply.
+
+Second, plasma donation is more than one-for-one: the typical donor can give enough plasma at one time for multiple treatments, and they can potentially donate more than once. As a result, assuming plasma therapy does help patients recover, there is a so-called flywheel effect: the more we use the treatment, the more plasma is available -- provided enough recovered patients are willing to donate.
+
+Many people would like to donate plasma to help a loved one, but can’t for various reasons:  Their blood types might be incompatible or they might live far away and be unable to travel. To address these sorts of obstacles, my collaborators and I suggest that each plasma donor could receive a voucher that can be used to give a family member or friend priority for plasma treatment. Because donation is more than one-for-one, it’s possible to honor vouchers while still increasing the pool of plasma available to treat other patients.
+
+Plus vouchers solve donation timing problems: one can only donate plasma relatively soon after recovering, but a family member might need treatment further down the line. A voucher-based system makes it possible for recovered patients to help take care of their family members even after they themselves no longer have Covid-19 antibodies. And the plasma they donate can be used to treat patients immediately in the meantime, which keeps the flywheel going.
+
+A similar analysis suggests a role for a pay-it-forward system, where we make a point of treating patients who pledge to donate plasma, assuming they recover and are medically able to do so. Because recovered patients can typically donate more plasma than was needed for their own treatment, this again can help increase the plasma supply in the long run. As a result, my collaborators and I show that, somewhat paradoxically, prioritizing patients who pledge to donate can still end up expanding treatment for the patients who are unable to pledge, or just choose not to.
+
+Both of these policies are similar to systems we’ve used to expand kidney donation in the U.S.: Priority vouchers are sometimes granted when a living donor gives a kidney to a third-party before one of their family members needs a transplant. And pay-it-forward incentives are used in kidney exchange chains, where a patient with a medically incompatible prospective donor receives a kidney from a third-party donor, and then their donor later gives a kidney to some other patient. (The longest single-hospital donation sequence of this form had 100 transplants.) Plasma donation is much less risky and medically taxing than kidney donation, so if anything we might expect incentives to work even better here.
+
+In any event, recovered coronavirus patients who decide to become plasma donors are some of the many heroes of this crisis. But we don’t need to rely on their altruism alone.
+
+If you have recovered from Covid-19 and might want to donate plasma, the FDA has posted information about the process and donation sites. See also uscovidplasma.org.
+
+The other three have also studied ways to allocate scarce medical equipment such as ventilators; I wrote about their work last month.
+|May 7, 2020;France Coronavirus Deaths Rise at Slowest Pace in Four Days;Deaths in France linked to the coronavirus rose at the slowest pace in four days on Thursday, falling below 200 fatalities. The number of patients in intensive care fell to the lowest level since March 25.The number of deaths rose by 178 to 25,987, according to data from France’s public health agency. The number of total coronavirus cases stood at 209,444, up 746 from the number of infections reported a day earlier.
+
+France is set to start rolling back lockdown measures, joining Germany, Italy and the Netherlands in easing restrictions as Europe’s economic pain from the fallout of the coronavirus intensifies. Looser restrictions on businesses and stores will start coming into effect on Monday in a gradual process designed to avoid a second wave of infections.French Prime Minister Edouard Philippe said on Thursday the country was ready for a nationwide plan to relax curbs on public life, though strict controls will remain on public transport in Paris, where infection rates are too high.
+
+“We are always looking for a balance between the indispensable return to normal life and the indispensable respect of all measures that will prevent the epidemic from restarting,” Philippe said on Thursday, adding that restrictions could be reimposed if infections rise. “The target of all the French people is that we can live with this virus” until a cure is found.
+
+Patients in intensive care because of the virus fell by 186 to 2,961. Hospitalizations fell by 775 patients to 23,208, the lowest since March 31.
+
+France’s daily coronavirus figures have fluctuated amid inconsistent reporting from nursing homes, which were first included in the tally last month.
+
+
